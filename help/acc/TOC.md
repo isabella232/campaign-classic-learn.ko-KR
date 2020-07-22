@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 603a2f9eab05af9821c4074f306af57499498c66
+source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 3%
    + [Adobe Campaign Classic 소개](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign Classic 사용자 인터페이스 살펴보기](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/acc/getting-started/managing-marketing-campaigns.md)
+   + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [수신자 목록 만들기](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-workflow.md)
