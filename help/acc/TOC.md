@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 3%
 
 ---
@@ -30,8 +30,10 @@ ht-degree: 3%
    + [수신자 목록 만들기](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [타깃팅 워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [프로필을 가져오는 방법](/help/acc/data-management/importing-profiles.md)
    + [이메일로 시드 및 증거 자료 관리](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ 프로필 관리 {#profile-management}
+   + [프로필 만들기 및 관리](/help/acc/profile-management/create-and-manage-profiles.md)
+   + [프로필 가져오기](/help/acc/data-management/importing-profiles.md)
 + 메시지 전송{#sending-messages}
    + 이메일 채널{#email-channel}
       + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
