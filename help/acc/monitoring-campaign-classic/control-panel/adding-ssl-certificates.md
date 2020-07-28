@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '221'
 ht-degree: 5%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 5%
 
 # SSL 인증서 추가
 
-Adobe Campaign [!UICONTROL Control Panel] 를 사용하면 하위 도메인의 보안을 위해 SSL 인증서를 추가할 수 있습니다.
+Adobe Campaign Campaign 컨트롤 패널을 사용하면 하위 도메인 보안을 위해 SSL 인증서를 추가할 수 있습니다.
 
 ## Campaign 컨트롤 패널 하위 도메인 관리 액세스
 
 Campaign 컨트롤 패널의 하위 도메인 관리에 액세스하려면 다음 위치로 이동하십시오.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **[!UICONTROL Subdomains & Certificates]** 카드
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: 캠페인 > **Campaign 컨트롤 패널** 카드 > **하위 도메인 및 인증서** 카드
 
    또는
 * URL에서 바로 [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -50,7 +50,7 @@ CSR을 받은 후에는 조직에서 승인한 인증 기관에서 SSL 인증서
 
 SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 설치해야 합니다.
 
-아래 비디오에서는 SSL 인증서를 [!UICONTROL Control Panel]
+아래 비디오에서는 Campaign 컨트롤 패널에서 SSL 인증서를 설치하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 *SSL 인증서 설치(01분 25초)*
