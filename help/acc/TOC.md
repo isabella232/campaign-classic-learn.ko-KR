@@ -1,7 +1,7 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign 클래식 자습서
+user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,25 +12,24 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---
 
 
-# Adobe Campaign 클래식 자습서 {#tutorials}
+# Adobe Campaign Classic Tutorials {#tutorials}
 
 + [개요](/help/acc/overview.md)
 + Getting Started {#getting-started}
    + [Adobe Campaign Classic 소개](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Adobe Campaign Classic 사용자 인터페이스 살펴보기](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Adobe Campaign Classic 유저 인터페이스 살펴보기](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [수신자 목록 만들기](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [타깃팅 워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [이메일로 시드 및 증거 자료 관리](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [워크플로우 만들기](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [워크플로우에서 프로필 타깃팅](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/acc/profile-management/create-and-manage-profiles.md)
    + [프로필 가져오기](/help/acc/data-management/importing-profiles.md)
@@ -38,7 +37,9 @@ ht-degree: 3%
    + 이메일 채널{#email-channel}
       + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [이메일로 시드 및 증거 자료 관리](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [다이내믹한 콘텐츠 블록을 사용하여 이메일 개인화](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [다이내믹한 컨텐츠 블록을 사용하여 이메일 개인화](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [개인화 필드를 사용하여 이메일 개인화](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [이메일 개인화 - 조건부 컨텐츠를 사용하여 다국어 뉴스레터 제작](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [반복 및 연속 이메일 캠페인 구성](/help/acc/sending-messages/recurring-deliveries.md)
       + [AMP를 사용하여 대화형 이메일 컨텐츠 정의](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + 푸시 채널 {#push-channel}
@@ -64,7 +65,7 @@ ht-degree: 3%
    + [워크플로우 히트맵](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + 통합 {#integrating}
-   + [Dynamics 365를 Adobe Campaign Classic과 통합하는 방법](/help/acc/integrations/dynamics365-integration.md)
+   + [Dynamics 365와 Adobe Campaign Classic의 통합 방법](/help/acc/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
    + 컨트롤 패널 {#control-panel-acc}
       + [Campaign 컨트롤 패널 개요](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
@@ -84,5 +85,5 @@ ht-degree: 3%
          + [데이터 암호 해독](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign 컨트롤 패널 문제 해결](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 외부 데이터베이스 액세스(FDA) {#fda}
-      + [빅데이터 관리 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Snowflake에 대한 빅데이터 관리](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
