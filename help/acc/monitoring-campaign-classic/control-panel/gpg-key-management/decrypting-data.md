@@ -11,7 +11,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 # 데이터 암호 해독
 
 Campaign 컨트롤 패널을 사용하면 공개/개인 키 쌍을 사용하여 Adobe Campaign 인스턴스로 들어오는 외부 데이터를 해독할 수 있습니다.
-공개 키를 만들고 인바운드 데이터의 암호 해독을 위한 인스턴스에 [!DNL Campaign] 가져오고 설치하는 방법을 알아봅니다.
+공개 키를 만들고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 이것을 가져오고 설치하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
