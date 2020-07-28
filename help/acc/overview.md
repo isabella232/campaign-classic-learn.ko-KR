@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign 클래식 자습서 - 개요
+title: Adobe Campaign Classic Tutorials - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적인 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 기능에 대한 비디오 및 자습서가 포함되어 있습니다.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[GPG 키 관리](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *아웃바운드 데이터의 암호화를 위해 지정된 인스턴스에 공개/비공개 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.[!UICONTROL Campaign]*
+   *아웃바운드 데이터의 암호화를 위해 지정된 캠페인 인스턴스에 공개/비공개 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
 
 * **[하위 도메인 위임(베타)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -28,7 +28,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[AMP를 사용하여 대화형 이메일 컨텐츠 정의](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *AMP 형식으로 이메일 콘텐츠 Adobe Campaign Classic(ACC)을 구성하는 방법을 알아봅니다.*
+   *AMP 형식으로 이메일 컨텐츠 Adobe Campaign Classic(ACC)를 구성하는 방법을 알아봅니다.*
 
 ## 직원 선택
 
@@ -61,11 +61,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="다이내믹한 콘텐츠 블록(비디오)을 사용하여 이메일 개인화" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>다이내믹한 콘텐츠 블록을 사용하여 이메일 개인화</strong>
     </a>
     </div>
