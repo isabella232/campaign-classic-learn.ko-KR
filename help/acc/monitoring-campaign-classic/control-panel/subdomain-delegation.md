@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '129'
 ht-degree: 17%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 17%
 # 하위 도메인 위임
 
 >[!NOTE]
-> Subdomain 위임 [!UICONTROL Control Panel] 은 1월 말까지 베타 버전으로 제공될 예정이며
-> 잦은 업데이트 및 수정
+>
+>이 사이트의 하위 도메인 위임 [!UICONTROL Control Panel] 은 1월 말까지 베타에서 사용할 수 있으며 자주 업데이트되고 예고 없이 수정될 수 있습니다.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
@@ -28,7 +28,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 
 하위 도메인 관리에 액세스하려면 다음 [!UICONTROL Control Panel]으로 이동합니다.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **하위 도메인 및 인증서** 카드
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: 캠페인 > **[!UICONTROL Control Panel]** 카드 > **하위 도메인 및 인증서** 카드
 
    또는
 * URL에서 바로 [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
