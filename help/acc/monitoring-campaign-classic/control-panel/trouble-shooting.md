@@ -28,18 +28,18 @@ ht-degree: 1%
 ### 증상: Experience Cloud 홈에서 액세스할 수 있는 링크가 사용자에게 나타나지 [!UICONTROL Control Panel] 않습니다.
 
 **원인:**
-사용자는 제품 프로필 _Campaign-xxx-Administrators/Admin에 사용자로 추가될 때까지 링크를 볼 수 없습니다_.
+사용자는 제품 프로필 &quot;Campaign-xxx-Administrators/Admin&quot;에 사용자로 추가될 때까지 링크를 볼 수 없습니다
 
 **방법:**
-관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 _캠페인-xxx-Admins_ 에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
+관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 &quot;Campaign-xxx-Admins&quot;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
 
 ### 증상: 인스턴스가 [!UICONTROL Control Panel]
 
 **원인:**
-누락된 인스턴스에 대해 &quot;사용자&quot; 제품 프로필 _Campaign-xxx-Administrators/Admin_ 으로 사용자를 추가해야 합니다.
+누락된 인스턴스에 대해 &quot;사용자&quot; 제품 프로필 &quot;Campaign-xxx-Administrators/Admin&quot;으로 사용자를 추가해야 할 가능성이 높습니다.
 
 **방법:**
-관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 _캠페인-xxx-Admins_ 에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
+관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 &quot;Campaign-xxx-Admins&quot;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
 
 ### 유용한 비디오
 
