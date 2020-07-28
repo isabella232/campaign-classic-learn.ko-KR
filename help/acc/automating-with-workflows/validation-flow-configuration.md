@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Adobe Campaign은 마케터가 전달 컨텐츠, 캠페인 목표, 데이터 추
 
 ## 캠페인에 대한 승인 구성  {#configuring-approvals-for-campaigns}
 
-캠페인 워크플로우의 모든 게재에 대해 동일한 검토자 세트가 있는 경우 승인 기능을 활용할 수 [!DNL Campaign] 있습니다. 캠페인 수준에서 승인 및 검토자를 설정하면 워크플로우가 실행되면 승인 작업과 검토자가 워크플로우의 각 전달 활동으로 푸시됩니다.
+캠페인 워크플로우의 모든 게재에 대해 동일한 검토자 세트가 있는 경우 캠페인 승인 기능을 활용할 수 있습니다. 캠페인 수준에서 승인 및 검토자를 설정하면 워크플로우가 실행되면 승인 작업과 검토자가 워크플로우의 각 전달 활동으로 푸시됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
