@@ -1,6 +1,6 @@
 ---
 title: AMP를 사용하여 대화형 이메일 컨텐츠 정의
-description: 이 비디오에서는 AMP 형식으로 이메일 컨텐츠 Adobe Campaign Classic(ACC)을 구성하는 방법을 설명합니다.
+description: 이 비디오에서는 AMP 형식으로 이메일 컨텐츠 Adobe Campaign Classic(ACC)를 구성하는 방법을 설명합니다.
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -24,7 +24,7 @@ AMP for Email은 개발자가 다이내믹하고 인터랙티브한 이메일을
 
 >[!NOTE]
 >
-> AMP 이메일을 전달하려면 [Google](https://developers.google.com/gmail/ampemail/register) 및 [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)에서 보내는 이메일 주소를 등록해야 합니다.
+>AMP 이메일을 전달하려면 [Google](https://developers.google.com/gmail/ampemail/register) 및 [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook)에서 보내는 이메일 주소를 등록해야 합니다.
 
 아래 비디오에서는 Adobe Campaign Classic에서 AMP를 활성화하고 사용법을 보여주는 방법을 설명합니다.
 
