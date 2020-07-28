@@ -12,7 +12,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -20,16 +20,16 @@ ht-degree: 0%
 
 # 인스턴스 액세스에 대한 IP 허용 목록
 
-Campaign 컨트롤 패널을 사용하면 IP 주소 범위 나열을 허용하여 인스턴스에 대한 새 연결을 설정할 수 있습니다. 기본적으로 Adobe Campaign 클래식 인스턴스는 다양한 IP 주소에서 액세스할 수 없습니다. 따라서 IP 주소를 나열할 수 있어야 합니다.
+Campaign 컨트롤 패널을 사용하면 IP 주소 범위 나열을 허용하여 인스턴스에 대한 새 연결을 설정할 수 있습니다. 기본적으로 Adobe Campaign Classic 인스턴스는 다양한 IP 주소에서 액세스할 수 없습니다. 따라서 IP 주소를 나열할 수 있어야 합니다.
 
-* 이 IP 주소에서 인스턴스에 [!DNL Campaign] 대한 액세스를 허용하려면
+* 이 IP 주소에서 캠페인 인스턴스에 대한 액세스를 허용하려면
 * API를 메시지 센터 또는 마케팅 인스턴스에 연결하려면
 
 ## Campaign 컨트롤 패널 인스턴스 설정 액세스
 
 Campaign 컨트롤 패널의 하위 도메인 관리에 액세스하려면 다음 위치로 이동하십시오.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **인스턴스 설정** 카드
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: 캠페인 > **Campaign 컨트롤 패널** 카드 > **인스턴스 설정** 카드
 
    또는
 * URL에서 바로 [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
