@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '121'
 ht-degree: 17%
 
 ---
@@ -19,8 +19,9 @@ ht-degree: 17%
 # 하위 도메인 위임
 
 >[!NOTE]
->
->이 사이트의 하위 도메인 위임 [!UICONTROL Control Panel] 은 1월 말까지 베타에서 사용할 수 있으며 자주 업데이트되고 예고 없이 수정될 수 있습니다.
+
+> Subdomain 위임 [!UICONTROL Control Panel] 은 베타 버전이며
+> 잦은 업데이트 및 수정
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
@@ -28,9 +29,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 
 하위 도메인 관리에 액세스하려면 다음 [!UICONTROL Control Panel]으로 이동합니다.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: 캠페인 > **[!UICONTROL Control Panel]** 카드 > **하위 도메인 및 인증서** 카드
-
-   또는
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **하위 도메인 및 인증서** 카드도르
 * URL에서 바로 [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 하위 도메인을 위임하는 방법
