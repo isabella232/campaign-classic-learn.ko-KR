@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 1%
@@ -24,8 +24,7 @@ Campaign 컨트롤 패널을 사용하면 SFTP 저장소를 인스턴스별로 �
 
 하위 도메인 관리에 액세스하려면 다음 [!UICONTROL Control Panel]으로 이동합니다.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** 카드 > **[!UICONTROL Subdomains & Certificates]** 카드
-
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** 카드 > **[!UICONTROL Subdomains & Certificates]** 카드\
    또는
 * URL에서 바로 [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
