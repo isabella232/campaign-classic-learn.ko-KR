@@ -4,9 +4,9 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[GPG 키 관리](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *아웃바운드 데이터의 암호화를 위해 지정된 캠페인 인스턴스에 공개/비공개 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
+   *아웃바운드 데이터의 암호화를 위해 지정된 인스턴스에 공개/비공개 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.[!UICONTROL Campaign]*
 
 * **[하위 도메인 위임(베타)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
