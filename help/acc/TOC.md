@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 3%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 3%
    + [Adobe Campaign Classic 유저 인터페이스 살펴보기](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [수신자 목록 만들기](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [워크플로우 만들기](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [캠페인 및 이메일 만들기](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [워크플로우에서 프로필 타깃팅](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/acc/profile-management/create-and-manage-profiles.md)
    + [프로필 가져오기](/help/acc/data-management/importing-profiles.md)
+   + [수신자 목록 만들기](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [워크플로우를 사용하여 받는 사람 목록 만들기](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 메시지 전송{#sending-messages}
    + 이메일 채널{#email-channel}
       + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 3%
          + [데이터 암호 해독](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign 컨트롤 패널 문제 해결](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 외부 데이터베이스 액세스(FDA) {#fda}
-      + [Snowflake에 대한 빅데이터 관리](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [빅데이터 관리 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
