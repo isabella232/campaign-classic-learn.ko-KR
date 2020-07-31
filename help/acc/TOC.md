@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: c7505e00eaf83336a2fdd76f489674928ea22b85
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '329'
 ht-degree: 3%
 
 ---
@@ -53,6 +53,8 @@ ht-degree: 3%
       + [미리 정의된 필터 사용](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + 캠페인 통합 관리 {#orchestration}
    + [멀티채널 캠페인 만들기](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
++ 보고 {#reporting}
+   + [설명 분석 보고서 생성](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + 워크플로우로 자동화{#automating-with-workflows}
    + [워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [타깃팅 워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
