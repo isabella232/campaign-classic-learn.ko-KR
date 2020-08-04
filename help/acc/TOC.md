@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: c7505e00eaf83336a2fdd76f489674928ea22b85
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -58,6 +58,9 @@ ht-degree: 3%
 + 워크플로우로 자동화{#automating-with-workflows}
    + [워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [타깃팅 워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [쿼리 결과를 결합하여 대상 다듬기](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [쿼리 결과를 제외하여 대상 수정](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [워크플로우를 사용하여 목록 만들기](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
    + [유효성 검사 워크플로우 구성](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [데이터 연계 강화 활동 구성](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [데이터 세분화](/help/acc/data-management/data-segmentation.md)
