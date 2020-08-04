@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '111'
 ht-degree: 4%
 
 ---
@@ -35,4 +35,4 @@ ht-degree: 4%
 
 * [워크플로우에서 프로필 타깃팅](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [쿼리 결과를 제외하여 대상 수정](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [워크플로우를 사용하여 목록 만들기](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
