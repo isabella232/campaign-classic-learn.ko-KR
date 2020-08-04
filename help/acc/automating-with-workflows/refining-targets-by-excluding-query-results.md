@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 5%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 3%
 * [워크플로우에서 프로필 타깃팅](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [타깃팅 워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
 * [쿼리 결과를 결합하여 대상 다듬기](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [워크플로우를 사용하여 목록 만들기](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
