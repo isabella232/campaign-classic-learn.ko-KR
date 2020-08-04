@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 3%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 3%
    + [수신자 목록 만들기](/help/acc/profile-management/creating-a-list-of-recipients.md)
    + [워크플로우를 사용하여 받는 사람 목록 만들기](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 메시지 전송{#sending-messages}
-   + 이메일 채널{#email-channel}
+   + Email Channel{#email-channel}
       + [캠페인 및 이메일 만들기](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [이메일로 시드 및 증거 자료 관리](/help/acc/sending-messages/managing-seed-and-proofs.md)
       + [다이내믹한 컨텐츠 블록을 사용하여 이메일 개인화](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -60,7 +60,7 @@ ht-degree: 3%
    + [타깃팅 워크플로우 만들기](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 다듬기](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [쿼리 결과를 제외하여 대상 수정](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [워크플로우를 사용하여 목록 만들기](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [유효성 검사 워크플로우 구성](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [데이터 연계 강화 활동 구성](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [데이터 세분화](/help/acc/data-management/data-segmentation.md)
