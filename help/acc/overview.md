@@ -4,9 +4,9 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="감사 추적(비디오)" src="./assets/acc-audit-trail.png" />
+      <img alt="감사 추적(비디오)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>감사 추적</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Adobe Campaign 내에서 발생하는 작업 및 이벤트의 포괄적인 목록을 캡처합니다.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="다이내믹한 콘텐츠 블록(비디오)을 사용하여 이메일 개인화" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="AMP를 사용하여 대화형 이메일 컨텐츠 정의(비디오)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>다이내믹한 콘텐츠 블록을 사용하여 이메일 개인화</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>AMP를 사용하여 대화형 이메일 컨텐츠 정의</strong>
     </a>
     </div>
     <p>
-    <em>수신자 프로필의 기준을 사용하여 메시지를 개인화할 수 있습니다. </em>
+    <em>Adobe Campaign Classic에서 AMP를 활성화하고 사용하는 방법 살펴보기 </em>
     <p>
   </td>
 </tr>
