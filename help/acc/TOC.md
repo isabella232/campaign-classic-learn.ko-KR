@@ -5,15 +5,15 @@ user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: 튜토리얼
+tutorials-title: 자습서
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 설명서
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 3%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
@@ -72,20 +72,19 @@ ht-degree: 3%
 + 통합 {#integrating}
    + [Dynamics 365와 Adobe Campaign Classic의 통합 방법](/help/acc/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
-   + 컨트롤 패널 {#control-panel-acc}
+   + Campaign 컨트롤 패널 {#control-panel-acc}
       + [Campaign 컨트롤 패널 개요](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
       + [서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [SSH 키 생성](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [SFTP 서버에 연결](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [하위 도메인 위임](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL 인증서 추가](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [SSL 인증서 관리](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
       + [URL 권한 추가](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [인스턴스 액세스에 대한 IP 허용 목록](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT 레코드 관리](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG 키 관리 {#gpg-key-management}
          + [GPG 키 관리 - 개요](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [데이터 암호화를 위한 GPG 키 생성 및 설치](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [GPG 키를 사용하여 데이터 암호화](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [데이터 암호 해독](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Campaign 컨트롤 패널 문제 해결](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
