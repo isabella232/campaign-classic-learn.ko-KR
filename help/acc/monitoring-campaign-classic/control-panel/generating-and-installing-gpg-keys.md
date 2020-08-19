@@ -11,8 +11,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 702ccde94b0437be599eca6997326ae5e37d0408
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 100%
 
 ---
 
