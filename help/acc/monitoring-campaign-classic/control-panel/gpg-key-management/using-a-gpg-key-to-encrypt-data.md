@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내�
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [GPG 키 관리(비디오)](./gpg-key-management-overview.md)
-* [GPG 키 관리(설명서)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 키 관리(설명서)](https://docs.adobe.com/content/help/ko-KR/control-panel/using/instances-settings/gpg-keys-management.html)
