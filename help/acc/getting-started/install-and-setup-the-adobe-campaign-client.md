@@ -11,8 +11,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 9135abd00a720d4b33746c4e3683adf8d3531461
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
