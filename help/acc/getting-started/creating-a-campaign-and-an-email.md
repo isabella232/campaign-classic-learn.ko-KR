@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
-* [사용 사례: 이메일 배달 만들기](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
-* [워크플로우 구축(설명서)](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
+* [사용 사례: 이메일 게재 만들기](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
+* [워크플로우 빌드 (설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
