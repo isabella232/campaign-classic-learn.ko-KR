@@ -12,8 +12,8 @@ role: user
 translation-type: tm+mt
 source-git-commit: cf282ccae57a2bbdb28546592757300c1bebc32e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '38'
+ht-degree: 100%
 
 ---
 
