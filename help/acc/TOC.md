@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
+source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 77%
+source-wordcount: '356'
+ht-degree: 76%
 
 ---
 
@@ -48,6 +48,8 @@ ht-degree: 77%
       + [게재 템플릿 구성](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [게재 템플릿 속성 설정](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [애드혹 이메일 게재 템플릿 배포](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+   + DM {#direct-mail}
+      + [직접 메일 배달 만들기](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 피로 관리{#fatigue-management}
       + [분류 유형 규칙 사용](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [미리 정의된 필터 사용](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
