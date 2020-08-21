@@ -1,24 +1,25 @@
 ---
-title: '캠페인 및 이메일 만들기 '
-description: 이 비디오에서는 Adobe Campaign Classic에서 캠페인 및 이메일을 만드는 방법을 설명합니다.
+title: 캠페인에서 이메일 만들기
+description: 캠페인에서 직접 이메일 배달을 만드는 방법을 알아봅니다.
 feature: Email
-topics: Getting started
+topics: null
 kt: 2172
+thumbnail: 25604.jpg
 doc-type: feature video
-activity: setup
+activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 48%
 
 ---
 
 
-# 캠페인 및 이메일 만들기
+# 캠페인에서 이메일 만들기
 
-이 비디오에서는 Adobe Campaign Classic에서 캠페인 및 이메일을 만드는 방법을 설명합니다.
+캠페인에서 직접 이메일 배달을 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
