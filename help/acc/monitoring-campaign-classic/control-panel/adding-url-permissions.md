@@ -1,26 +1,26 @@
 ---
 title: URL 권한 추가
-seo-title: URL 권한 추가
-description: '아래 비디오에서는 인스턴스가 연결할 수 있도록 권한이 부여된 URL 목록에 일부 외부 URL을 추가하는 방법을 설명합니다.  '
-seo-description: '아래 비디오에서는 인스턴스가 연결할 수 있도록 권한이 부여된 URL 목록에 일부 외부 URL을 추가하는 방법을 설명합니다. '
-feature: URl Permissions
-topics: Control Panel
+description: Adobe Campaign Classic 인스턴스에서 외부 URL로 연결을 설정하는 방법을 알아봅니다.
+feature: Control Panel
+topics: Instance Settings
 kt: 3259
+thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
-team: PM
+team: TM
 translation-type: tm+mt
-source-git-commit: 7518219e6e6e60a558cfb9026c1f401018927028
+source-git-commit: fd0f2b11328c0f780558410277fcf6a4aa8e85d3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
 
 # URL 권한 추가
 
-아래 비디오에서는 인스턴스가 연결할 수 있도록 권한이 부여된 URL 목록에 일부 외부 URL을 추가하는 방법을 설명합니다.  자세한 내용은 URL 권한 정보를 참조하십시오. 자세한 내용은 [URL 권한 정보](https://helpx.adobe.com/kr/campaign/kb/control-panel-instance-settings.html)를 참조하십시오.
+인스턴스에서 외부 URL로 연결을 설정하는 방법을 [!UICONTROL Adobe Campaign Classic] 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
-*URL 권한 추가(01:52)*
+
+For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
