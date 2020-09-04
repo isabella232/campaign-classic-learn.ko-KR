@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -49,7 +49,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 자신의 [!DNL IMS org ID]을(를) 알아야 합니다. 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]을(를) 조회할 수 있는 위치를 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*확인[!DNL IMS Org ID] (00:26)*
+*확인[!DNL IMS Org ID](00:26)*
 
 ### 관리자 권한
 
@@ -81,7 +81,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
    *인스턴스가 연결할 수 있도록 권한이 부여된 URL 목록에 일부 외부 URL을 추가하는 방법.*
 
-* **[인스턴스 액세스에 대한 IP 허용 목록](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[허용 목록에 IP 주소 추가](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    ** IP 주소 범위별로 인스턴스에 새 연결을 설정하는 방법을 배웁니다.[!UICONTROL allow listing]
 
