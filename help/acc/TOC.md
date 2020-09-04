@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 76%
+ht-degree: 74%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 76%
       + [하위 도메인 위임](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [SSL 인증서 추가](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [URL 권한 추가](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [인스턴스 액세스에 대한 IP 허용 목록](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [허용 목록에 IP 주소 추가](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT 레코드 관리](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + GPG 키 관리 {#gpg-key-management}
          + [GPG 키 관리 - 개요](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
