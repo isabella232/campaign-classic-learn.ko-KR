@@ -1,7 +1,7 @@
 ---
-title: Campaign 컨트롤 패널
+title: Campaign 컨트롤 패널 - 개요
 seo-title: Campaign 컨트롤 패널
-description: Adobe Campaign 관리자는 Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 인스턴스 또는 허용 목록 IP 주소별로 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
+description: 'Adobe Campaign 관리자는 Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 SFTP 저장소 관리(예: GPG 키 관리, 하위 도메인 및 인증서 관리)를 수행할 수 있습니다.'
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '197'
+ht-degree: 72%
 
 ---
 
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] 개요
 
 >[!NOTE]
 >
->&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allow list]&#39;및 &#39;[!UICONTROL block list]&#39;로 대체되었습니다.
->이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 Campaign 컨트롤 패널 릴리스에서 대체될 예정입니다.
+>&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allowlist]&#39;및 &#39;[!UICONTROL denylist]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 Campaign 컨트롤 패널 릴리스에서 대체될 예정입니다.
 
-Adobe Campaign 관리자는 [!UICONTROL Control Panel]을(를) 통해 주요 자산을 모니터링하고 인스턴스 또는 [!UICONTROL allow list] IP 주소별 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## [!UICONTROL Control Panel]에 액세스 
 
@@ -53,7 +52,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 ### 관리자 권한
 
 [!UICONTROL Control Panel]에 액세스하려면 관리자 권한이 필요합니다.
-다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다.
+다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다..
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
