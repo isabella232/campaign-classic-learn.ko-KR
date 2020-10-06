@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 71edaefa80d411d810a3a94197739a40a6658d49
+source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 85%
+source-wordcount: '126'
+ht-degree: 80%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 85%
 # Adobe Campaign Campaign 컨트롤 패널 - Tutorials {#control-panel}
 
 + [Campaign 컨트롤 패널 개요](/help/control-panel-tutorials/control-panel-overview.md)
++ [Campaign 컨트롤 패널 시작하기](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 관리 {#sftp-management}
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [서버 용량 모니터링, 허용 목록 IP 주소 및 SSH 키 추가](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
