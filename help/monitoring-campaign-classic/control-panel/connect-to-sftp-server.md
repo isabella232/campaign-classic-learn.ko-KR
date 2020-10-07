@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
@@ -38,4 +38,5 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 이 비디오에서는 Campaign 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+
 *SFTP 서버에 연결(02:04)*
