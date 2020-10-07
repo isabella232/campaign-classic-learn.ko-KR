@@ -1,6 +1,6 @@
 ---
 title: SSH 키 생성
-description: Adobe Campaign 컨트롤 패널에 SSH 키를 추가하려면 생성할 수 있어야 합니다. 아래 비디오에서는 터미널을 사용하여 SSH 키를 생성하는 방법에 대해 설명합니다.
+description: 터미널을 사용하여 SSH 키를 생성하는 방법과 Campaign 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
 feature: SSH Key
 topics: Control Panel
 kt: 6348
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: d378a5afdce1d01e138dd90e357caa66362bacd0
+source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 63%
 
 ---
 
@@ -32,7 +32,7 @@ Campaign 컨트롤 패널에서 SFTP 관리에 액세스하려면 다음 위치�
 
 ## SSH 키를 생성하는 방법
 
-아래 비디오에서는 터미널을 사용하여 SSH 키를 생성하는 방법에 대해 설명합니다.
+터미널을 사용하여 SSH 키를 생성하는 방법과 Campaign 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 *SSH 키를 만드는 방법(2:16)*
