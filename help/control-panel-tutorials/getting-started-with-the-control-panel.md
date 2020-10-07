@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 68%
@@ -47,7 +47,8 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 자신의 [!DNL IMS org ID]을(를) 알아야 합니다. 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]을(를) 조회할 수 있는 위치를 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*확인[!DNL IMS Org ID](00:26분)*
+
+*확인[!DNL IMS Org ID](00:26)*
 
 ### 관리자 권한
 
