@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 63%
@@ -35,4 +35,5 @@ Campaign 컨트롤 패널에서 SFTP 관리에 액세스하려면 다음 위치�
 터미널을 사용하여 SSH 키를 생성하는 방법과 Campaign 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *SSH 키를 만드는 방법(2:16)*
