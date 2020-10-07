@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -41,6 +41,7 @@ SSL 인증서를 구매하려면 CSR(인증서 서명 요청)이 필요합니다
 아래 비디오에서는 Campaign 컨트롤 패널에서 인증서 서명 요청을 생성하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *인증서 서명 요청 생성(02:36)*
 
 ### 2. SSL 인증서 구매
@@ -54,6 +55,7 @@ SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 �
 아래 비디오에서는 [!UICONTROL Control Panel]에서 SSL 인증서를 설치하는 방법을 설명합니다. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *SSL 인증서 설치(01:25)*
 
 ## 추가 리소스
