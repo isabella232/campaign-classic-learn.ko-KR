@@ -13,7 +13,7 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 80%
@@ -26,9 +26,9 @@ ht-degree: 80%
 + [Campaign 컨트롤 패널 개요](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작하기](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 관리 {#sftp-management}
+   + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [서버 용량 모니터링, 허용 목록 IP 주소 및 SSH 키 추가](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + 하위 도메인 및 인증서 {#subdomains-and-certificates}
    + [하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [SSL 인증서 추가](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
