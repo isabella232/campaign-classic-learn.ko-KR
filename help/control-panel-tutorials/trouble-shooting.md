@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '339'
+ht-degree: 100%
 
 ---
 
@@ -44,9 +44,11 @@ ht-degree: 0%
 ### 유용한 비디오
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *IMS 조직 ID 확인(00:26)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *[!UICONTROL Control panel]을(를) 사용하기 위해 제품 프로필 관리자에 관리자를 추가하는 방법(01:03)*
 
 ### 유용한 설명서
