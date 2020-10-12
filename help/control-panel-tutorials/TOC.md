@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Campaign 컨트롤 패널
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: Adobe Campaign 관리자는 Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 인스턴스 또는 허용 목록 IP 주소별로 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
+breadcrumb-title: Campaign 컨트롤 패널 자습서
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
+source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 80%
+source-wordcount: '158'
+ht-degree: 60%
 
 ---
 
@@ -26,9 +26,11 @@ ht-degree: 80%
 + [Campaign 컨트롤 패널 개요](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작하기](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 관리 {#sftp-management}
+   + SFTP 관리 {#sftp-management}
+   + [서버 용량 모니터링](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [허용 목록에 IP 범위 추가](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [서버 용량 모니터링, 허용 목록 IP 주소 및 SSH 키 추가](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + 하위 도메인 및 인증서 {#subdomains-and-certificates}
    + [하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [SSL 인증서 추가](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
