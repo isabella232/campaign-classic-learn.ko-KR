@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 82%
+source-wordcount: '93'
+ht-degree: 66%
 
 ---
 
@@ -33,25 +33,6 @@ Campaign 컨트롤 패널을 사용하면 SFTP 저장소를 인스턴스별로 �
 
 ## 서버 용량 모니터링, [!UICONTROL allow list] IP 주소 및 SSH 키 추가
 
-이 비디오에서는 SFTP 서버 저장소 [!UICONTROL Adobe Campaign Control Panel] 를 모니터하는 방법과 액세스 방법에 대해 설명합니다.
+SFTP 서버의 저장소 용량을 모니터링하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### 인터페이스 설명
-
-**인스턴스:** 관리자 권한이 있는 인스턴스만 나열됩니다.
-
-**작업 로그:** [!UICONTROL Control Panel]에서 실행된 작업만 나열됩니다. [!UICONTROL Control Panel]의 외부에서 실행된 작업은 포함되지 않습니다(예: 실행 중인 워크플로우 등).
-
-로그에는 조직 관리자가 실행하는 작업만 포함됩니다. 여러 개의 조직이 있는 경우 작업 로그에 다른 조직의 로그가 표시되지 않습니다
-
-**저장소 탭:** 머리글에는 가장 많이 사용되는 상위 3개의 서버가 표시되며 3개 이상의 서버가 있는 경우 나머지 서버는 [!UICONTROL Storage] 탭에 표시됩니다.
-
-**경고 메시지:**
-
-* 주황색 - 서버가 80% 활용됨
-* 빨간색 - 서버가 90% 활용됨
-
-## 추가 자료
-
-* [SSH 키 생성](./generate-ssh-key.md)
