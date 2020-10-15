@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -64,7 +64,7 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
 * SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다.
 
-### 유용한 설명서
+### 유용한 설명서 {#helpful-docs}
 
 * [SFTP 서버에 로그인](https://helpx.adobe.com/kr/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
