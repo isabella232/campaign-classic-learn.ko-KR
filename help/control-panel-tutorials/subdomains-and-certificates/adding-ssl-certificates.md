@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 96%
 
 ---
 
@@ -60,5 +60,5 @@ SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 �
 
 ## 추가 리소스
 
-* [하위 도메인 위임](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-* [하위 도메인 및 인증서 - 설명서](https://docs.adobe.com/content/help/ko-KR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [전체 하위 도메인 위임(비디오)](./subdomain-delegation.md)
+* [하위 도메인 및 인증서(설명서)](https://docs.adobe.com/content/help/ko-KR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
