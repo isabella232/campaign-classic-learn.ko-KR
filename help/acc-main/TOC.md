@@ -13,10 +13,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 97%
 
 ---
 
@@ -77,21 +77,6 @@ ht-degree: 100%
 + 통합 {#integrating}
    + [Dynamics 365를 Adobe Campaign Classic과 통합하는 방법](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
-   + Campaign 컨트롤 패널 {#control-panel-acc}
-      + [Campaign 컨트롤 패널 개요](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [서버 용량 모니터링, 허용 목록 IP 주소 및 SSH 키 추가](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [SSH 키 생성](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [SFTP 서버에 연결](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [하위 도메인 위임](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [SSL 인증서 추가](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [URL 권한 추가](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [허용 목록에 IP 주소 추가](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-      + [Google TXT 레코드 관리](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG 키 관리 {#gpg-key-management}
-         + [GPG 키 관리 - 개요](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [GPG 키를 사용하여 데이터 암호화](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [데이터 암호 해독](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-      + [Campaign 컨트롤 패널 문제 해결](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+   + [컨트롤 패널](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [빅데이터 관리 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
