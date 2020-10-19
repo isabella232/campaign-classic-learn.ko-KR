@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
+source-git-commit: 676737c1c273aca39a56210724199ab540317c78
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 22%
@@ -27,7 +27,7 @@ ht-degree: 22%
 
 Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12))
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## 추가 리소스
 
