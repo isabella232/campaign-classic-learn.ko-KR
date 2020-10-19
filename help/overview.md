@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 자습서 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '250'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[GPG 키 관리](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[CNAME(베타)을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *아웃바운드 데이터의 암호화를 위해 지정된 [!UICONTROL Campaign] 인스턴스에 공개/개인 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 배웁니다.*
-
-* **[하위 도메인 위임(베타)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.*
-
-* **[AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *AMP 포맷으로 이메일 콘텐츠 ACC(Adobe Campaign Classic)를 구성하는 방법을 배웁니다.*
+   *Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.*
 
 ## 직원 추천
 
