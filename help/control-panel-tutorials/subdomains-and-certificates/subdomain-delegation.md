@@ -1,5 +1,5 @@
 ---
-title: 하위 도메인 위임
+title: 전체 하위 도메인 위임
 description: 하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.
 feature: Subdomain Delegation
 topics: Control Panel
@@ -8,17 +8,17 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '112'
 ht-degree: 85%
 
 ---
 
 
-# 하위 도메인 위임
+# 전체 하위 도메인 위임
 
->[!NOTE]
+>[!IMPORTANT]
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
@@ -42,5 +42,5 @@ Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인�
 
 ## 추가 리소스
 
-* [SSL 인증서 추가](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [SSL 인증서 추가](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [하위 도메인 및 인증서](https://docs.adobe.com/content/help/ko-KR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
