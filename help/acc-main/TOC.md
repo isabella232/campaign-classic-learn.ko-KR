@@ -16,7 +16,7 @@ translation-type: tm+mt
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,6 +77,6 @@ ht-degree: 97%
 + 통합 {#integrating}
    + [Dynamics 365를 Adobe Campaign Classic과 통합하는 방법](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
-   + [컨트롤 패널](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [컨트롤 패널](https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [빅데이터 관리 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
