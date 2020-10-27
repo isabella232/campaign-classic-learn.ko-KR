@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 자습서 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
