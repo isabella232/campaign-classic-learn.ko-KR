@@ -12,10 +12,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
+source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 98%
 
 ---
 
@@ -42,4 +42,6 @@ ht-degree: 100%
       + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [GPG 키를 사용하여 데이터 암호화](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [데이터 암호 해독](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
++ 성능 모니터링 {#performance-monitoring}
+   + [데이터베이스 모니터링](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Campaign 컨트롤 패널 문제 해결](/help/control-panel-tutorials/trouble-shooting.md)
