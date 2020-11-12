@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 350ef2c3cf70a253b74c48feced0f5f319022631
+source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '329'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 + [개요](/help/overview.md)
 + {#getting-started} 시작
    + [Adobe Campaign Classic 소개](/help/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [Adobe Campaign 클라이언트 설치 및 설정](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Adobe Campaign Classic 사용자 인터페이스 살펴보기](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
