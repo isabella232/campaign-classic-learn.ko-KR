@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 97%
+source-wordcount: '334'
+ht-degree: 96%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 97%
       + [되풀이 및 연속 이메일 캠페인 구성](/help/sending-messages/recurring-deliveries.md)
       + [AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + 푸시 채널 {#push-channel}
+      + [모바일 앱 채널 설치](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
    + 게재 템플릿 사용{#using-delivery-templates}
       + [게재 템플릿 구성](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
