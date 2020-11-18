@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Campaign에서 Android 서비스를 구성하고 Android 모바일 애플리케이션을 만드는 방법을 알아봅니다. 푸시 알림의 대상 앱을 정의하려면 이 단계가 필요합니다.
 
-[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 ## 다음 보기
 
