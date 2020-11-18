@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 푸시 알림을 구성하고 Android 앱 사용자에게 전송하는 방법을 알아봅니다.
 
-[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 ## 추가 리소스
 
