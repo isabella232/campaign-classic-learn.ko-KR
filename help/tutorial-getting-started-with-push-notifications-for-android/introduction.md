@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Adobe Campaign allows you to send personalized and segmented [!DNL push] notific
 
    인스턴스에 모바일 앱 채널 패키지를 설치해야 합니다. 다음 비디오에서는 모바일 앱 채널이 인스턴스에 설치되어 있는지 확인하는 방법과 설치되어 있지 않은지 확인하는 방법을 설명합니다.
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## 자습서
 
