@@ -1,5 +1,5 @@
 ---
-title: 자습서 소개
+title: Android용 푸시 알림 시작하기 - 소개
 description: 이 자습서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 것과 관련된 단계를 설명합니다.
 feature: push
 topics: mobile channels
@@ -8,15 +8,15 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 9%
+source-wordcount: '365'
+ht-degree: 8%
 
 ---
 
 
-# 자습서 소개
+# Android용 푸시 알림 시작하기 - 소개
 
 Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. 이 자습서에서는 Adobe Campaign에서 앱으로 [!DNL push] 알림을 전송하는 데 관련된 단계를 [!DNL Android] 안내합니다.
 
