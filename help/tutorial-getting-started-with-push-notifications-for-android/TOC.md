@@ -8,17 +8,17 @@ solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 index: true
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 11%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Getting started with push notifications for Android {#getting-started-with-push-notifications-for-android}
 
-+ [자습서 소개](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
++ [Android용 푸시 알림 시작하기 - 소개](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
 + [1단계:앱 구독 스키마를 확장하여 푸시 알림 개인화](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 + [2단계:Android 서비스 구성 및 Campaign에서 Android 모바일 애플리케이션 만들기](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 + [3단계:푸시 알림 구성 및 전송](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
