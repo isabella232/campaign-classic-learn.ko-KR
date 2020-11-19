@@ -4,10 +4,10 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 94%
+source-wordcount: '233'
+ht-degree: 88%
 
 ---
 
@@ -18,13 +18,18 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
+* **[Android용 푸시 알림 시작하기](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+
+   *이 자습서에서는 Adobe Campaign에서 Android 앱으로 푸시 알림을 전송하는 데 관련된 단계를 안내합니다.*
+
+
 * **[CNAME(베타)을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.*
 
 * **[데이터베이스 모니터링](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *인스턴스의 데이터베이스 사용을 모니터링하는 방법을 알아봅니다.*
+   *인스턴스의 데이터베이스 사용량을 모니터링하는 방법을 알아봅니다.*
 
 ## 직원 추천
 
