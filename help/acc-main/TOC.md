@@ -6,7 +6,7 @@ user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 
 breadcrumb-title: 자습서
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=ko&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 자습서
 tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 설명서
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
