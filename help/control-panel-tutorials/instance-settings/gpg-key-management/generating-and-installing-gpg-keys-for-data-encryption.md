@@ -4,12 +4,12 @@ description: Campaign 컨트롤 패널을 사용하면 Adobe Campaign 인스턴�
 feature: Control Panel
 topics: null
 kt: 5240
-thumbnail: 33686.jpg
+thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: e97127024a01a1b989297789498b55e477619326
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
