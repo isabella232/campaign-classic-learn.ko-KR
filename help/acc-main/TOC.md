@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=ko&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 자습서
-tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 94%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 94%
    + [Adobe Campaign Classic 사용자 인터페이스 살펴보기](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [캠페인 및 이메일 만들기](https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [캠페인 및 이메일 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [워크플로우에서 프로필 타겟팅](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 94%
 + 통합 {#integrating}
    + [Dynamics 365를 Adobe Campaign Classic과 통합하는 방법](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
-   + [컨트롤 패널](https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [빅데이터 관리 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
