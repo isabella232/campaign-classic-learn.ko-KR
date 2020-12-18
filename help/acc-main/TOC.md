@@ -1,26 +1,26 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic 자습서
+user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
-breadcrumb-title: 자습서
+breadcrumb-title: 튜토리얼
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=ko&tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: 자습서
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-title: 튜토리얼
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign Classic 자습서 {#tutorials}
+# Adobe Campaign Classic 튜토리얼 {#tutorials}
 
 + [개요](/help/overview.md)
 + {#getting-started} 시작
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [Adobe Campaign Classic 사용자 인터페이스 살펴보기](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [캠페인 및 이메일 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [캠페인 및 이메일 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=ko)
    + [워크플로우에서 프로필 타겟팅](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
    + 푸시 채널 {#push-channel}
       + [모바일 앱 채널 설치](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Android용 푸시 알림 시작하기(자습서)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Android용 푸시 알림 시작(튜토리얼)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=ko)
    + 게재 템플릿 사용{#using-delivery-templates}
       + [게재 템플릿 구성](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [게재 템플릿 속성 설정](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
