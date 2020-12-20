@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 24%
 
 ---
 
 
 # Experience Platform Mobile SDK를 사용하여 푸시 채널 구성
 
-이 비디오에서는 Adobe Experience Platform Mobile SDK를 구성 및 설치하는 방법을 설명합니다.
+이 비디오에서는 Adobe Experience Platform Mobile SDK를 구성하고 설치하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
