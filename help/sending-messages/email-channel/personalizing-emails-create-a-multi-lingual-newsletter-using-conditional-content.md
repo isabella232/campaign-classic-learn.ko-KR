@@ -1,5 +1,5 @@
 ---
-title: 이메일 개인화 - 조건부 컨텐츠를 사용하여 다국어 뉴스레터 제작
+title: 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 description: 다중 언어 뉴스레터의 예에서 전달에 조건부 컨텐츠를 추가하는 방법을 알아봅니다.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 35%
+ht-degree: 62%
 
 ---
 
 
-# 이메일 개인화 - 조건부 컨텐츠를 사용하여 다국어 뉴스레터 제작
+# 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 
 조건부 컨텐츠 필드를 구성하여 고급 개인화를 만들 수 있습니다. 특정 조건이 충족되면 전체 텍스트 블록 및/또는 이미지가 교체됩니다.
 
@@ -34,5 +34,5 @@ ht-degree: 35%
 
 비디오 Tutorials:
 
-* [다이내믹한 컨텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
