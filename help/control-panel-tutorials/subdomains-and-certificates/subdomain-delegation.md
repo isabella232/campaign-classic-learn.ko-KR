@@ -21,7 +21,7 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+> [!UICONTROL Control Panel]의 하위 도메인 위임은 베타 버전이며 사전 통보 없이 자주 업데이트되고 수정할 수 있습니다.
 
 Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 
