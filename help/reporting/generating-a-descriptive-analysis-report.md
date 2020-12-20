@@ -20,7 +20,7 @@ ht-degree: 55%
 
 # 설명 분석 보고서 생성
 
-워크플로우에서 [!UICONTROL descriptive analysis report] 를 생성하는 방법을 알아봅니다.
+워크플로우에서 [!UICONTROL descriptive analysis report]을(를) 생성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
