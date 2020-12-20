@@ -1,6 +1,6 @@
 ---
-title: 이메일을 통해 시드와 증거 자료를 관리하는 방법
-description: 기존 이메일에 씨앗 및 교정을 추가하는 방법과 보내는 방법을 살펴볼 수 있습니다.
+title: 이메일에서 시드 및 증명을 관리하는 방법
+description: 기존 이메일에 씨앗 및 교정을 추가하는 방법과 이메일 전송 방법을 살펴봅니다.
 feature: Email
 topics: null
 kt: 2178
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 9%
+ht-degree: 32%
 
 ---
 
 
-# 이메일을 통해 시드와 증거 자료를 관리하는 방법
+# 이메일에서 시드 및 증명을 관리하는 방법
 
-기존 이메일에 씨앗 및 교정을 추가하는 방법과 보내는 방법을 살펴볼 수 있습니다.
+기존 이메일에 씨앗 및 교정을 추가하는 방법과 이메일 전송 방법을 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
