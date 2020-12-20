@@ -1,6 +1,6 @@
 ---
 title: 수신자 목록 만들기 워크플로우
-description: 탐색기에서 수신자 목록을 구성하여 대상을 만드는 방법을 알아봅니다.
+description: 탐색기에서 받는 사람 목록을 구성하여 대상을 만드는 방법을 알아봅니다.
 feature: Audiences
 topics: Getting started
 kt: 2173
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 33%
+ht-degree: 50%
 
 ---
 
 
-# 워크플로우를 사용하여 받는 사람 목록 만들기
+# 워크플로우를 사용하여 수신자 목록 만들기
 
-수신자를 타깃팅하기 위한 워크플로우를 만드는 방법과 이메일 타겟의 목록을 사용하기 전에 반복하는 방법을 알아봅니다.
+수신자를 타깃팅하기 위해 워크플로우를 만드는 방법과 이메일 타겟에서 목록을 사용하기 전에 반복하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
