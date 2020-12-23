@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 96%
 + 메시지 보내기{#sending-messages}
    + 이메일 채널{#email-channel}
       + [캠페인 및 이메일 만들기](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [이메일에서 시드 및 증명 관리](/help/sending-messages/managing-seed-and-proofs.md)
+      + [이메일에서 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [동적 컨텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -60,6 +60,7 @@ ht-degree: 96%
    + 피로 관리{#fatigue-management}
       + [분류 유형 규칙 사용](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [미리 정의된 필터 사용](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [구독 서비스 구성 및 관리](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Campaign 오케스트레이션 {#orchestration}
    + [캠페인 실행](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [멀티채널 캠페인 만들기](/help/orchestrating-campaigns/multi-channel-campaigns.md)
