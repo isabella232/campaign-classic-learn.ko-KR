@@ -4,10 +4,10 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 90%
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Classic의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
 ## 새로운 기능
+
+* **+  [배달할 수 있는 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+
+   *전달 가능성 우수 사례를 적용하는 방법을 알아봅니다.*
 
 * **[이메일 배달 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
