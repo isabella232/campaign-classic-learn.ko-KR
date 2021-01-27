@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 81%
+source-wordcount: '50'
+ht-degree: 60%
 
 ---
 
@@ -25,5 +25,4 @@ ht-degree: 81%
 
 ## 추가 리소스
 
-* [사용 사례: 이메일 게재 만들기](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
-* [워크플로우 빌드 (설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
+* [사용 사례: 이메일 게재 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
