@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 88%
+source-wordcount: '362'
+ht-degree: 87%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 88%
       + [되풀이 및 연속 이메일 캠페인 구성](/help/sending-messages/recurring-deliveries.md)
       + [AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [이메일 배달 문제 해결](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [전달을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + 푸시 채널 {#push-channel}
       + [모바일 앱 채널 설치](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
