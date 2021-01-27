@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [Adobe Campaign Classic 사용자 인터페이스 살펴보기](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [캠페인 및 이메일 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=ko)
+   + [캠페인 및 이메일 만들기](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [워크플로우의 Target 프로필](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [이벤트 트리거 캠페인 만들기](/help/getting-started/create-event-triggered-campaigns.md)
 + 프로필 관리 {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [워크플로우를 사용하여 수신자 목록 만들기](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 메시지 보내기{#sending-messages}
    + 이메일 채널{#email-channel}
-      + [캠페인 및 이메일 만들기](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [이메일 배달 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [이메일에서 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [동적 컨텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [모바일 앱 채널 설치](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android용 푸시 알림 시작(튜토리얼)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=ko)
+   + DM {#direct-mail}
+      + [DM 게재 만들기](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 게재 템플릿 사용{#using-delivery-templates}
       + [게재 템플릿 구성](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [게재 템플릿 속성 설정](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [애드혹 이메일 게재 템플릿 배포](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + DM {#direct-mail}
-      + [DM 게재 만들기](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 피로 관리{#fatigue-management}
       + [분류 유형 규칙 사용](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [미리 정의된 필터 사용](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
