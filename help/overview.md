@@ -4,10 +4,10 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* ** [배달할 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[교정본을 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*증명 자료를 보내고 확인하는 방법을 살펴보십시오.*
+
+* **[전달을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *전달 가능성 우수 사례를 적용하는 방법을 알아봅니다.*
 
@@ -29,10 +33,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[Android용 푸시 알림 시작](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *이 튜토리얼에서는 Adobe Campaign에서 Android 앱으로 푸시 알림을 전송하는 단계를 설명합니다.*
-
-* **[CNAME(베타)을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.*
 
 ## 직원 추천
 
