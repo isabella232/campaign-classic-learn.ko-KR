@@ -4,7 +4,7 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 87%
@@ -18,7 +18,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **+  [배달할 수 있는 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* ** [배달할 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *전달 가능성 우수 사례를 적용하는 방법을 알아봅니다.*
 
