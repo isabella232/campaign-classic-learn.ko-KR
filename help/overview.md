@@ -4,7 +4,7 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[교정본을 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*증명 자료를 보내고 확인하는 방법을 살펴보십시오.*
+   *증명 자료를 보내고 확인하는 방법을 살펴보십시오.*
 
 * **[전달을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
