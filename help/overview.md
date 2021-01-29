@@ -4,10 +4,10 @@ description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Classic의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
 ## 새로운 기능
+
+* **[제어 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *제어 그룹의 개념을 파악하고 전달을 위해 제어 그룹을 사용하는 방법을 알아봅니다.*
 
 * **[교정본을 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
    *이메일 전달 프로세스를 파악하고 이메일 컨텐츠를 디자인하고 개인화하는 방법을 살펴볼 수 있습니다.*
 
-* **[Android용 푸시 알림 시작](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *이 튜토리얼에서는 Adobe Campaign에서 Android 앱으로 푸시 알림을 전송하는 단계를 설명합니다.*
 
 ## 직원 추천
 
