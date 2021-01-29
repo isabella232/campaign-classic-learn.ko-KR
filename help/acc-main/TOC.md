@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 86%
+source-wordcount: '369'
+ht-degree: 85%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 86%
       + [이메일 배달 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [이메일에서 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [교정본을 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [제어 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
       + [동적 컨텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
