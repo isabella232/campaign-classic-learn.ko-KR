@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 3%
@@ -24,6 +24,6 @@ ht-degree: 3%
 
 ## 추가 리소스
 
-* [크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.mdhelp/orchestrating-campaigns/cross-channel-campaigns.md)
-* [멀티채널 캠페인 만들기](help/orchestrating-campaigns/multi-channel-campaigns.md)
+* [크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+* [멀티채널 캠페인 만들기](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 
