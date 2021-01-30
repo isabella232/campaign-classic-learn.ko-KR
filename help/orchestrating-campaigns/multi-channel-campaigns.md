@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Classic(ACC)에서 멀티채널 캠페인 만들기
+title: 멀티채널 캠페인 만들기
 description: 이메일, SMS 및 DM(Direct Mail) 전달을 사용하여 멀티채널 캠페인을 만드는 방법을 알아봅니다.
 feature: Workflows
 topics: null
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 38%
+source-wordcount: '86'
+ht-degree: 37%
 
 ---
 
