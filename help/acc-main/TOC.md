@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 85%
+source-wordcount: '378'
+ht-degree: 84%
 
 ---
 
@@ -70,6 +70,7 @@ ht-degree: 85%
 + Campaign 오케스트레이션 {#orchestration}
    + [캠페인 실행](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [멀티채널 캠페인 만들기](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + 보고 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/accessing-built-in-reports.md)
    + [설명 분석 보고서 생성](/help/reporting/generating-a-descriptive-analysis-report.md)
