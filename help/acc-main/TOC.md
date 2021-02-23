@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: e9b8c3ff48367d78d264a98d6032f8b557b4cc60
+source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 79%
+source-wordcount: '394'
+ht-degree: 80%
 
 ---
 
@@ -23,7 +23,6 @@ ht-degree: 79%
 # Adobe Campaign Classic 튜토리얼 {#tutorials}
 
 + [개요](/help/overview.md)
-+ [Adobe Campaign 시작하기 준비 - 제공 가능한 모범 사례](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + {#getting-started} 시작
    + [Adobe Campaign Classic 소개](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign 클라이언트 설치 및 설정](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -52,6 +51,7 @@ ht-degree: 79%
       + [AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [이메일 배달 문제 해결](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [전달을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [제공 가능성 우수 사례 가이드](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
    + SMS 채널 {#sms-channel}
       + [SMS 게재 만들기](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 푸시 채널 {#push-channel}
