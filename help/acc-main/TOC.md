@@ -14,8 +14,8 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/
 translation-type: tm+mt
 source-git-commit: e9b8c3ff48367d78d264a98d6032f8b557b4cc60
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '400'
+ht-degree: 79%
 
 ---
 
