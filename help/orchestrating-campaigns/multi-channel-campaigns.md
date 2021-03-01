@@ -1,7 +1,7 @@
 ---
 title: 멀티채널 캠페인 만들기
 description: 이메일, SMS 및 DM(Direct Mail) 전달을 사용하여 멀티채널 캠페인을 만드는 방법을 알아봅니다.
-feature: Workflows
+feature: 워크플로우
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
@@ -11,8 +11,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 41%
+source-wordcount: '78'
+ht-degree: 42%
 
 ---
 
