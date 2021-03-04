@@ -3,11 +3,15 @@ title: Adobe Campaign Classic 튜토리얼 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 product: Campaign
 sub-product: Campaign Classic
+feature: 개요
+topic: null
+role: 비즈니스 전문가, 관리자, 개발자
+level: 초급
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 69%
+source-wordcount: '257'
+ht-degree: 68%
 
 ---
 
