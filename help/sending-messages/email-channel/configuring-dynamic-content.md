@@ -1,18 +1,20 @@
 ---
 title: 동적 컨텐츠 구성
 description: 다양한 유형의 동적 컨텐츠를 파악하고 개인화 블록과 조건문을 만들어 전달하는 방법을 살펴볼 수 있습니다.
-feature: Dynamic Content, Personalization, Email
+feature: 동적 컨텐츠, 개인화, 이메일
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 22%
+source-wordcount: '84'
+ht-degree: 20%
 
 ---
 
