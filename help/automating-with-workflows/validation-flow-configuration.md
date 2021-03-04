@@ -1,20 +1,22 @@
 ---
 title: Adobe Campaign Classic에서 유효성 검사 워크플로우를 구성하는 방법
 seo-title: Adobe Campaign Classic에서 유효성 검사 워크플로우를 구성하는 방법
-description: Adobe Campaign은 마케터가 전달 컨텐츠, 캠페인 목표, 데이터 추출 및 예산 승인을 검토하고 제공할 수 있는 여러 옵션을 제공합니다. 이 자습서에서는 다양한 승인 유효성 검사 워크플로우를 구성하는 방법에 대해 설명합니다.
+description: 다양한 승인 유효성 검사 워크플로우를 구성하는 방법을 알아봅니다.
 seo-description: 이 비디오에서는 ACCAadobe Campaign에서 배달 템플릿을 구성 및 사용하는 방법에 대해 설명합니다. 마케터는 배포 컨텐츠, 캠페인 대상, 데이터 추출 및 예산 승인을 검토하고 제공할 수 있는 여러 옵션을 제공합니다. 이 자습서에서는 다양한 승인 유효성 검사 워크플로우를 구성하는 방법에 대해 설명합니다.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflow
+feature: 워크플로우, 승인
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
+role: 비즈니스 전문가
+level: 고급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
