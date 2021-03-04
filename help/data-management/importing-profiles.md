@@ -1,17 +1,19 @@
 ---
 title: 프로필을 가져오는 방법
-description: 이 비디오에서는 Adobe Campaign Classic에서 프로필을 가져오는 방법을 설명합니다
-feature: Profile Management
+description: Adobe Campaign Classic에서 프로필을 가져오는 방법 살펴보기
+feature: 프로필 관리
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video
 activity: use
 team: TM
+role: 비즈니스 전문가, 관리자, 개발자
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 21%
+source-wordcount: '51'
+ht-degree: 23%
 
 ---
 
