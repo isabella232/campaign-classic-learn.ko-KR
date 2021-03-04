@@ -1,26 +1,27 @@
 ---
 title: 기본 제공 보고서 액세스
-description: 이해  campaign classic에서 내장된 보고 및 분석과 전달 보고서를 생성하는 방법을 알아봅니다.
-feature: Reporting
+description: 내장된 보고 및 분석을 이해하고 배달 보고서를 생성하는 방법을 학습합니다.
+feature: 보고
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
 
 # 기본 제공 보고서 액세스
 
-이해  campaign classic에서 내장된 보고 및 분석과 전달 보고서를 생성하는 방법을 알아봅니다.
+이해  Campaign Classic에서 내장된 보고 및 분석과 전달 보고서를 생성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 
