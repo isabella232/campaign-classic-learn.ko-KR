@@ -1,17 +1,19 @@
 ---
 title: 반복 및 연속 이메일 캠페인을 설정하는 방법
-description: 이 자습서에서는 반복 및 연속 전달을 설정하는 방법과 Adobe Campaign Classic(ACC)에서 두 접근 방식 간의 차이점을 설명합니다.
-feature: workflows
+description: 반복 및 연속 전달을 설정하고 두 접근 방식의 차이점을 이해하는 방법을 알아봅니다.
+feature: 워크플로우
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 5%
+source-wordcount: '270'
+ht-degree: 6%
 
 ---
 
