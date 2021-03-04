@@ -1,17 +1,19 @@
 ---
 title: Android용 푸시 알림 시작 - 소개
 description: 이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 단계를 설명합니다.
-feature: push
+feature: 푸시
 topics: mobile channels
 kt: 6438
 doc-type: article
 activity: setup
 team: TM
+role: 관리자, 개발자
+level: 경험
 translation-type: tm+mt
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '369'
+ht-degree: 98%
 
 ---
 
