@@ -1,18 +1,20 @@
 ---
 title: 쿼리 결과를 제외하여 대상 세분화하기
 description: 워크플로우에 표준 제외를 적용하여 대상을 세분화하는 방법을 살펴볼 수 있습니다. 또한 사전 정의된 필터를 만드는 방법과 워크플로우를 촬영하는 데 어려움을 겪는 방법을 알아봅니다.
-feature: Workflows
+feature: 워크플로우, 타깃팅 활동, 쿼리 편집기
 topics: Targeting Activities
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 34%
+source-wordcount: '145'
+ht-degree: 32%
 
 ---
 
