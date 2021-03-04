@@ -1,16 +1,18 @@
 ---
 title: Snowflake에 대한 빅데이터 관리
-description: 이 자습서에서는 Adobe Campaign Classic에서 Snowflake 커넥터를 활용하는 방법에 대해 설명합니다.
-feature: Snowflake
+description: Adobe Campaign Classic에서 Snowflake 커넥터를 활용하는 방법 살펴보기
+feature: 통합 데이터 액세스
 topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
 team: PM
+role: 관리자, 개발자
+level: 고급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 6%
 
 ---
