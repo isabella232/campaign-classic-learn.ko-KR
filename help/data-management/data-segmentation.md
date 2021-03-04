@@ -1,16 +1,18 @@
 ---
 title: Adobe Campaign Classic의 데이터 세그멘테이션
-description: 'Adobe Campaign을 사용하면 일반적인 소비자 속성 및 기타 데이터 소스에 대한 심층적인 쿼리를 통해 재사용 가능한 목록을 만들고 데이터의 실시간 변경 사항을 기반으로 목록을 동적으로 업데이트하며 이러한 데이터 포인트에서 다변수 테스트와 같은 보다 복잡한 작업을 수행할 수 있습니다. 이 자습서에서는 통합된 고객 프로필, 프로파일을 만들고 업데이트하는 방법 및 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법에 대해 설명합니다. '
-feature: Data segmentation
+description: '통합된 고객 프로파일, 프로파일을 생성 및 업데이트하는 방법 및 이러한 프로파일을 기반으로 고객 세그먼트를 만드는 방법을 이해합니다. '
+feature: 프로필, 데이터 관리 활동
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
