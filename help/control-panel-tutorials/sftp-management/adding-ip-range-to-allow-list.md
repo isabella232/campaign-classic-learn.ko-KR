@@ -1,7 +1,7 @@
 ---
 title: '허용 목록에 IP 범위 추가 '
 description: 허용 목록에 IP 주소 범위를 추가하는 방법을 알아봅니다.
-feature: Ip Range
+feature: 'Campaign 컨트롤 패널   '
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -9,11 +9,13 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+role: 관리자
+level: 경험
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 20%
+source-wordcount: '96'
+ht-degree: 21%
 
 ---
 
