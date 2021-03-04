@@ -1,7 +1,7 @@
 ---
 title: 서버 용량 모니터링
-description: Campaign 컨트롤 패널을 사용하면 SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 IP 주소를 허용 목록에 추가할 수 있습니다.
-feature: SFTP Management
+description: SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 허용 목록에 IP 주소를 추가하는 방법을 알아봅니다.
+feature: 'Campaign 컨트롤 패널   '
 topics: Control Panel
 audience: administrator
 kt: 3266
@@ -9,12 +9,14 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: 관리자
+level: 경험
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 73%
+source-wordcount: '94'
+ht-degree: 52%
 
 ---
 
