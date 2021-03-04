@@ -1,16 +1,18 @@
 ---
 title: 'Experience Platform Mobile SDK를 사용하여 푸시 채널 구성 '
-description: '이 비디오에서는 Experience Cloud Mobile SDK를 사용하여 Campaign Classic용 푸시 채널을 구성하는 방법에 대해 설명합니다. '
-feature: Mobile SDK
+description: 'Experience Cloud Mobile SDK를 사용하여 푸시 채널을 구성하는 방법에 대해 학습합니다. '
+feature: 푸시
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
+role: 관리자
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 24%
 
 ---
