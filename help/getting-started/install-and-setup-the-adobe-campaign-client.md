@@ -1,18 +1,20 @@
 ---
 title: Adobe Campaign 클라이언트 설치 및 설정
-description: 이 비디오에서는 Adobe Campaign 클라이언트 콘솔의 다운로드 및 설치, 여러 환경에 대한 연결 만들기 및 관리와 Adobe Campaign 클라이언트 콘솔에 대한 액세스를 확인하는 방법에 대해 설명합니다.
-feature: Client consol
+description: Adobe Campaign 클라이언트 콘솔을 다운로드 및 설치하고, 여러 환경에 대한 연결을 생성 및 관리하고, Adobe Campaign 클라이언트 콘솔에 대한 액세스를 확인하는 방법에 대해 알아보십시오.
+feature: 클라이언트 콘솔
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: 비즈니스 전문가, 관리자, 개발자
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 68%
 
 ---
 
