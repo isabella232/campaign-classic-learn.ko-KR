@@ -1,18 +1,20 @@
 ---
 title: AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의
-description: 이 비디오에서는 AMP 포맷으로 이메일 콘텐츠 ACC(Adobe Campaign Classic)를 구성하는 방법을 설명합니다.
-feature: Email, Email Design
+description: AMP 형식으로 이메일 콘텐츠를 구성하는 방법을 알아봅니다.
+feature: 이메일, 이메일 디자인
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
+role: 비즈니스 전문가, 개발자
+level: 고급
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 88%
 
 ---
 
