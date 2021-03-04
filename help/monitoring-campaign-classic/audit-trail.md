@@ -1,17 +1,19 @@
 ---
 title: 감사 추적 사용 방법
 description: '감사 추적은 Adobe Campaign 내에서 발생하는 작업 및 이벤트의 포괄적인 목록을 실시간으로 캡처합니다. '
-feature: Audit Trail
+feature: 감사 추적
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
+role: 관리자
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 98%
 
 ---
 
