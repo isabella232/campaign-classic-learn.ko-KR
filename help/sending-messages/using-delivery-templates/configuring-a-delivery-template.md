@@ -1,19 +1,21 @@
 ---
 title: Adobe Campaign Classic에서 배달 템플릿 구성
-description: 템플릿에는 유형 분류, 발신자 및 회신 주소, 미러 페이지 및 가입 해제 링크와 같은 기본 개인화 블록 등이 체계적으로 포함될 수 있습니다. 또한 컨텐츠, 회사 로고 또는 서명, 리소스 유효성, 일괄 처리 수량 등과 같은 기타 전달 속성을 포함시킬 수 있습니다. 다음 비디오에서는 애드혹 전달에 대한 템플릿을 구성하는 방법을 보여 줍니다.
-feature: Delivery Templates
+description: 애드혹 전달에 대한 템플릿을 구성하는 방법에 대해 알아봅니다.
+feature: 배달 템플릿
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: 관리자
+level: 초급
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 13%
+source-wordcount: '180'
+ht-degree: 16%
 
 ---
 
