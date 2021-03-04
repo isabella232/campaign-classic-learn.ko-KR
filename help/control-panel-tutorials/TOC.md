@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign 컨트롤 패널 자습서
-user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니터링하고 Campaign 컨트롤 패널에서 관리 작업을 수행하는 방법을 알아봅니다.
+user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니터링하고 컨트롤 패널에서 관리 작업을 수행하는 방법에 대해 알아봅니다.
 breadcrumb-title: Campaign 컨트롤 패널 자습서
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -11,11 +11,14 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic-learn/
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
+feature: 'Campaign 컨트롤 패널   '
+role: 관리자
+level: 경험
 translation-type: tm+mt
-source-git-commit: f4be1f91a69c14fe6a61b4e286c656dcf46a5a67
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 89%
+source-wordcount: '161'
+ht-degree: 98%
 
 ---
 
