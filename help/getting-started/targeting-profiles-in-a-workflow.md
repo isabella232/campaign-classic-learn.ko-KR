@@ -1,17 +1,19 @@
 ---
 title: 워크플로우에서 프로파일을 타깃팅하는 방법
 description: 캠페인 워크플로우의 사용을 이해하고 필터링 조건을 사용하여 워크플로우에서 워크플로우를 만들고 프로필을 타깃팅하는 방법을 알아봅니다.
-feature: Workflows
+feature: 워크플로우
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '135'
 ht-degree: 30%
 
 ---
