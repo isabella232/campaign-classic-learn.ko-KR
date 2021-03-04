@@ -1,18 +1,20 @@
 ---
 title: DM 게재 만들기
-description: null
-feature: Direct mail
+description: 다이렉트 메일 배달을 만들고 형식을 지정하고 실행하는 방법을 알아봅니다.
+feature: DM
 topics: null
 kt: 3859
 thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 36%
+source-wordcount: '38'
+ht-degree: 26%
 
 ---
 
