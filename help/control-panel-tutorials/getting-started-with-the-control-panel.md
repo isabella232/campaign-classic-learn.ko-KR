@@ -2,17 +2,15 @@
 title: Campaign 컨트롤 패널 시작
 description: Campaign 컨트롤 패널에 액세스하는 방법 및 제어판에서 사용할 수 있는 사전 요구 사항을 알아봅니다.
 feature: 'Campaign 컨트롤 패널   '
-topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-topic: null
 role: 관리자
 level: 경험
 translation-type: tm+mt
-source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
+source-git-commit: 3a9e7ed7c76931a59848c42f05deb6fda00a3fce
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 36%
@@ -24,8 +22,9 @@ ht-degree: 36%
 
 >[!NOTE]
 >
->Campaign 컨트롤 패널은 모든 관리 사용자가 액세스할 수 있습니다. 사용자에게 관리자 액세스 권한을 부여하는 단계는 (제품 문서)[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel]에서 자세히 설명합니다.
-인스턴스는 AWS에서 호스팅되어야 하며 최신(Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html] 빌드로 업그레이드해야 합니다. (이 섹션)[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]에서 자신의 버전을 확인하는 방법을 알아봅니다. 인스턴스가 AWS에서 호스팅되는지 확인하려면 (이 페이지)[https://experienceleague.adobe.com/docs/control-panel/using/faq.html]에 설명된 단계를 따르십시오.
+>Campaign 컨트롤 패널은 모든 관리 사용자가 액세스할 수 있습니다. 사용자에게 관리자 액세스 권한을 부여하는 단계는 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)에 자세히 설명되어 있습니다.
+인스턴스는 AWS에서 호스팅되어야 하며 최신 [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) 빌드로 업그레이드해야 합니다. [이 섹션](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)에서 자신의 버전을 확인하는 방법을 알아봅니다. 인스턴스가 AWS에서 호스팅되는지 확인하려면 [이 페이지](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)에 설명된 단계를 따르십시오.
+
 
 [!UICONTROL Control Panel]을 사용하면 Adobe Campaign 관리자가 키 자산을 모니터링하고 [!DNL SFTP] 저장소를 인스턴스별로 관리하고 [!DNL GPG] 키 또는 [!UICONTROL subdomains] 및 [!UICONTROL certificates]를 관리하는 등의 관리 작업을 수행할 수 있습니다.
 
