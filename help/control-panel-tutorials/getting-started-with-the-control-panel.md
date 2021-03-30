@@ -10,7 +10,7 @@ team: TM
 role: 관리자
 level: 경험
 translation-type: tm+mt
-source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
+source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 36%
@@ -23,7 +23,8 @@ ht-degree: 36%
 >[!NOTE]
 >
 > Campaign 컨트롤 패널은 모든 관리 사용자가 액세스할 수 있습니다. 사용자에게 관리자 액세스 권한을 부여하는 단계는 [제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)에 자세히 설명되어 있습니다.
-인스턴스는 AWS에서 호스팅되어야 하며 최신 [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) 빌드로 업그레이드해야 합니다. [이 섹션](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)에서 자신의 버전을 확인하는 방법을 알아봅니다. 인스턴스가 AWS에서 호스팅되는지 확인하려면 [이 페이지](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)에 설명된 단계를 따르십시오.
+>
+> 인스턴스는 AWS에서 호스팅되어야 하며 최신 [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) 빌드로 업그레이드해야 합니다. [이 섹션](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)에서 자신의 버전을 확인하는 방법을 알아봅니다. 인스턴스가 AWS에서 호스팅되는지 확인하려면 [이 페이지](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)에 설명된 단계를 따르십시오.
 
 [!UICONTROL Control Panel]을 사용하면 Adobe Campaign 관리자가 키 자산을 모니터링하고 [!DNL SFTP] 저장소를 인스턴스별로 관리하고 [!DNL GPG] 키 또는 [!UICONTROL subdomains] 및 [!UICONTROL certificates]를 관리하는 등의 관리 작업을 수행할 수 있습니다.
 
