@@ -7,11 +7,11 @@ feature: 개요
 topic: null
 role: 비즈니스 전문가, 관리자, 개발자
 level: 초급
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -24,23 +24,23 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *크로스 채널 캠페인을 만들고 실행하는 방법을 알아봅니다.*
+   *크로스채널 캠페인을 만들고 실행하는 방법을 알아봅니다.*
 
-* **[제어 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[컨트롤 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *제어 그룹의 개념을 파악하고 전달을 위해 제어 그룹을 사용하는 방법을 알아봅니다.*
+   *컨트롤 그룹의 개념을 파악하고 게재를 위한 컨트롤 그룹 사용 방법을 알아봅니다.*
 
-* **[교정본을 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[증명 자료를 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *증명 자료를 보내고 확인하는 방법을 살펴보십시오.*
 
-* **[전달을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[게재 가능성을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *전달 가능성 우수 사례를 적용하는 방법을 알아봅니다.*
+   *게재 가능성 모범 사례를 적용하는 방법을 알아봅니다.*
 
-* **[이메일 배달 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *이메일 전달 프로세스를 파악하고 이메일 컨텐츠를 디자인하고 개인화하는 방법을 살펴볼 수 있습니다.*
+   *이메일 게재 만들기 프로세스를 파악하고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 살펴봅니다.*
 
 
 ## 직원 추천
