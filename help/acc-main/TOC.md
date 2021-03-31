@@ -11,11 +11,11 @@ tutorials-title: 튜토리얼
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ko
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -30,8 +30,8 @@ ht-degree: 80%
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [캠페인 및 이메일 만들기](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [워크플로우의 Target 프로필](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [이벤트 트리거 캠페인 만들기](/help/getting-started/create-event-triggered-campaigns.md)
+   + [워크플로우에서 프로필 타기팅](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [이벤트가 트리거된 캠페인 만들기](/help/getting-started/create-event-triggered-campaigns.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
    + [프로필 가져오기](/help/data-management/importing-profiles.md)
@@ -39,19 +39,19 @@ ht-degree: 80%
    + [워크플로우를 사용하여 수신자 목록 만들기](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 메시지 보내기{#sending-messages}
    + 이메일 채널{#email-channel}
-      + [이메일 배달 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [이메일에서 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [교정본을 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [제어 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
-      + [동적 컨텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [이메일에서 시드 및 증명 자료 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [증명 자료를 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [컨트롤 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
+      + [다이내믹 콘텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [되풀이 및 연속 이메일 캠페인 구성](/help/sending-messages/recurring-deliveries.md)
       + [AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [이메일 배달 문제 해결](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [전달을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [제공 가능성 우수 사례 가이드](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [이메일 게재 문제 해결](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [게재 가능성을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS 채널 {#sms-channel}
       + [SMS 게재 만들기](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 푸시 채널 {#push-channel}
