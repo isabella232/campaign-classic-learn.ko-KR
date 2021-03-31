@@ -1,17 +1,17 @@
 ---
 cloud: experience-cloud
 product: adobe campaign
-type: 자습서
+type: 튜토리얼
 solution: Campaign, Campaign Classic
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.ko-KR
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: be175160ae9ac2097d1da22e77a42a653cb9b36e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
