@@ -1,7 +1,7 @@
 ---
 title: Campaign 컨트롤 패널    - 개요
 description: Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 SFTP 저장 공간을 인스턴스별로 관리하거나, GPG 키 또는 하위 도메인 및 인증서를 관리하는 등의 관리 작업을 수행할 수 있습니다.
-landing-page-description: Campaign 컨트롤 패널을 사용하면 캠페인 관리자가 주요 자산을 모니터링하고 SFTP 저장소, GPG 키 또는 하위 도메인 및 인증서 관리와 같은 관리 작업을 수행할 수 있습니다.
+landing-page-description: Campaign 관리자는 Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 SFTP 스토리지, GPG 키 또는 하위 도메인 및 인증서를 관리하는 등의 관리 작업을 수행할 수 있습니다.
 feature: 'Campaign 컨트롤 패널   '
 topics: Control Panel
 kt: 3262
@@ -11,11 +11,11 @@ team: PM
 role: 관리자
 level: 경험
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -69,8 +69,8 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>SFTP 서버에 연결</strong>
-    </a>
+    <strong>SFTP 서버에 연결</strong>
+    </a>
     </div>
     <p>
     <em>Campaign 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 애플리케이션을 통해 SFTP 서버에 연결하는 방법을 알아봅니다. </em>
