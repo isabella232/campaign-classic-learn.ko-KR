@@ -8,16 +8,16 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-role: 비즈니스 전문가, 개발자
-level: 고급
-translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 88%
+role: Business Practitioner, Developer
+level: Advanced
+exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
+translation-type: ht
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+workflow-type: ht
+source-wordcount: '139'
+ht-degree: 100%
 
 ---
-
 
 # AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의
 
