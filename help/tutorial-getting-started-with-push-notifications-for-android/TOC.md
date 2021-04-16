@@ -1,16 +1,13 @@
 ---
-product: adobe campaign classic
 user-guide-title: Campaign Classic에서 Android용 푸시 알림 시작
 user-guide-description: 이 튜토리얼에서는 Adobe Campaign에서 Android 앱으로 푸시 알림을 전송하는 단계를 설명합니다.
 breadcrumb-title: Android용 푸시 알림 시작
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=ko&tag=Campaign+Classic#recommended/solutions/campaign
 index: true
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '91'
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
