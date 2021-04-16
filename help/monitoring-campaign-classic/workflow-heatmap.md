@@ -1,22 +1,22 @@
 ---
 title: 워크플로우 Heatmap
 description: 인스턴스의 로드를 모니터링하고 그에 따라 워크플로우를 계획하는 방법을 알아봅니다.
-feature: 히트맵
+feature: 열 지도
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-role: 관리자
-level: 초급
-translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 90%
+role: Administrator
+level: Beginner
+exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
+translation-type: ht
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+workflow-type: ht
+source-wordcount: '169'
+ht-degree: 100%
 
 ---
-
 
 # 워크플로우 Heatmap
 
