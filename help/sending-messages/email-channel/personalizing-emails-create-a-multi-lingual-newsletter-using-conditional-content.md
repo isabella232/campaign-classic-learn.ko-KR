@@ -1,23 +1,23 @@
 ---
 title: 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 description: 다중 언어 뉴스레터의 예에서 전달에 조건부 컨텐츠를 추가하는 방법을 알아봅니다.
-feature: 동적 컨텐츠 블록
+feature: 동적 컨텐츠
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
+exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 59%
+source-wordcount: '118'
+ht-degree: 62%
 
 ---
-
 
 # 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 
@@ -34,7 +34,7 @@ ht-degree: 59%
 * [개인화 정보](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [조건부 콘텐츠](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
-비디오 Tutorials:
+비디오 튜토리얼:
 
 * [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
