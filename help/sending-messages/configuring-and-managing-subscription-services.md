@@ -8,16 +8,16 @@ thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 비즈니스 전문가, 관리자, 개발자
-level: 고급
+role: Business Practitioner, Administrator, Developer
+level: Experienced
+exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 3%
+source-wordcount: '47'
+ht-degree: 25%
 
 ---
-
 
 # 구독 서비스 구성 및 관리
 
@@ -28,4 +28,3 @@ ht-degree: 3%
 ## 추가 리소스
 
 * [서비스 및 구독 정보(제품 설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/about-services-and-subscriptions.html)
-
