@@ -1,17 +1,17 @@
 ---
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일을 개인화하는 방법
 description: 이 자습서에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법에 대해 보여줍니다.
-feature: Dynamic Content Blocks
+feature: 동적 컨텐츠
 topics: Email Channel
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '253'
+ht-degree: 99%
 
 ---
 
