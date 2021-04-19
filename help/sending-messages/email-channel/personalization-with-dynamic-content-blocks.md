@@ -1,23 +1,23 @@
 ---
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 description: 다이내믹한 콘텐츠 블록을 어떻게 제작하여 이메일 전달 콘텐츠를 개인화하는 방법을 살펴볼 수 있습니다.
-feature: 동적 컨텐츠 블록
+feature: 동적 컨텐츠
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: 관리자, 개발자
-level: 초급
+role: Administrator, Developer
+level: Beginner
+exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 64%
+source-wordcount: '149'
+ht-degree: 67%
 
 ---
-
 
 # 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 
@@ -36,7 +36,7 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하고 수
 * [개인화 정보](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * ([개인화 블록](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
-비디오 Tutorials:
+비디오 튜토리얼:
 
 * [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
 * [이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
