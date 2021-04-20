@@ -1,14 +1,14 @@
 ---
 title: Campaign 컨트롤 패널 시작
 description: Campaign 컨트롤 패널에 액세스하는 방법 및 제어판에서 사용할 수 있는 사전 요구 사항을 알아봅니다.
-feature: 'Campaign 컨트롤 패널   '
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 관리자
-level: 경험
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt

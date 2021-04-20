@@ -1,7 +1,7 @@
 ---
 title: Android용 푸시 알림 시작 - 소개
 description: 이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 단계를 설명합니다.
-feature: 푸시
+feature: Push
 topics: mobile channels
 kt: 6438
 doc-type: article

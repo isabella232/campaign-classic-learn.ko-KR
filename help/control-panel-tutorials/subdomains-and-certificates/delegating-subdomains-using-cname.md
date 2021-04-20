@@ -1,15 +1,15 @@
 ---
 title: CNAME을 사용하여 하위 도메인 위임
 description: 하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.
-feature: 'Campaign 컨트롤 패널   '
+feature: Control Panel
 topics: Control Panel
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 관리자
-level: 경험
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

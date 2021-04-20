@@ -1,15 +1,15 @@
 ---
 title: '푸시 알림 구성 및 전송 '
 description: 푸시 알림을 구성하고 Android 앱 사용자에게 전송하는 방법을 알아봅니다.
-feature: 푸시
+feature: Push
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 관리자, 개발자, 비즈니스 전문가
-level: 초급, 중급, 경험
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

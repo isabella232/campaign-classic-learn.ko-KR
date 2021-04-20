@@ -1,7 +1,7 @@
 ---
 title: 구독 서비스 구성 및 관리
 description: 구독 및 대상 구독자를 설정 및 관리하는 방법을 알아봅니다.
-feature: '구독     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

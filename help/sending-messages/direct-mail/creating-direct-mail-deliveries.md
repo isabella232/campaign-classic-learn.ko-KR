@@ -1,7 +1,7 @@
 ---
 title: DM 게재 만들기
 description: 다이렉트 메일 배달을 만들고 형식을 지정하고 실행하는 방법을 알아봅니다.
-feature: DM
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

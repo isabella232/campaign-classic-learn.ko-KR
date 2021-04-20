@@ -1,15 +1,15 @@
 ---
 title: 이메일에서 시드 및 증명을 관리하는 방법
 description: 기존 이메일에 씨앗 및 교정을 추가하는 방법과 이메일 전송 방법을 살펴봅니다.
-feature: 이메일
+feature: Email
 topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Campaign Classic의 데이터 세그멘테이션
 description: '통합된 고객 프로파일, 프로파일을 생성 및 업데이트하는 방법 및 이러한 프로파일을 기반으로 고객 세그먼트를 만드는 방법을 이해합니다. '
-feature: 프로필, 데이터 관리 활동
+feature: Profiles, Data Management Activity
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 이메일 게재를 만들고 디자인하는 방법
 description: 이메일 게재 만들기 프로세스를 파악하고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 알아봅니다.
-feature: 이메일, 이메일 디자인, 개인화
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

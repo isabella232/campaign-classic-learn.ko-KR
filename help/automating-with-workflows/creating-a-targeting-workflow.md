@@ -1,14 +1,14 @@
 ---
 title: 타겟팅 워크플로우 만들기
 description: 타깃팅 워크플로우를 사용하여 몇 개의 전달 대상을 정의하는 방법을 알아봅니다.
-feature: 워크플로우, 타깃팅 활동, 쿼리 편집기
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

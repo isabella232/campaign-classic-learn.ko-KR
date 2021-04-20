@@ -1,14 +1,14 @@
 ---
 title: Adobe Campaign Classic에서 유형 규칙을 사용하여 피로 관리를 설정하는 방법
 description: 유형 분류 규칙을 활용하여 피로 관리를 구현하는 방법을 알아봅니다.
-feature: 피로 관리
+feature: Fatigue Management
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

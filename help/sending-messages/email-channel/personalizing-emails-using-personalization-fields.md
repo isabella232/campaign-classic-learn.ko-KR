@@ -1,7 +1,7 @@
 ---
 title: 개인화 필드를 사용하여 이메일 개인화
 description: 개인화 필드를 제목 줄 및 이메일 전달의 컨텐츠에 추가하는 방법을 알아봅니다.
-feature: 동적 컨텐츠
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

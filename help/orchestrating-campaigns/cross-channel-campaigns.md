@@ -1,7 +1,7 @@
 ---
 title: 다중 채널 캠페인 만들기
 description: 크로스 채널 캠페인을 만드는 방법을 알아봅니다.
-feature: 워크플로우
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

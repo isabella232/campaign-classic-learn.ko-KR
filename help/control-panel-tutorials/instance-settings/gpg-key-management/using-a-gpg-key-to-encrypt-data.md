@@ -1,15 +1,15 @@
 ---
 title: 'GPG 키를 사용하여 데이터 암호화 '
 description: Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
-feature: 'Campaign 컨트롤 패널   '
+feature: Control Panel
 topics: GPG Key Management
 kt: 5793
 thumbnail: 36399.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 관리자
-level: 경험
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

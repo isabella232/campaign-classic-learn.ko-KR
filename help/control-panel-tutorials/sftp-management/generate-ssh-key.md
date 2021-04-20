@@ -1,15 +1,15 @@
 ---
 title: SSH 키 생성
 description: 터미널을 사용하여 SSH 키를 생성하는 방법과 Campaign 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
-feature: 'Campaign 컨트롤 패널   '
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 관리자
-level: 경험
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

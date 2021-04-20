@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic 소개
 description: Adobe Campaign Classic이 Adobe Digital Experience 포트폴리오에 어떻게 적합한지 이해하고 주요 기능 및 성능에 대한 개요를 알아봅니다.
-feature: 개요
+feature: Overview
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg

@@ -1,15 +1,15 @@
 ---
 title: 전체 하위 도메인 위임
 description: 하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.
-feature: 'Campaign 컨트롤 패널   '
+feature: Control Panel
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 관리자
-level: 경험
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

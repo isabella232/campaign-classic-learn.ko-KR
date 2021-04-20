@@ -1,15 +1,15 @@
 ---
 title: 설명 분석 보고서 생성
 description: Adobe Campaign Classic의 작업 과정에서 설명 분석 보고서를 생성하는 방법을 알아봅니다.
-feature: 보고
+feature: Reporting
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 description: 다중 언어 뉴스레터의 예에서 전달에 조건부 컨텐츠를 추가하는 방법을 알아봅니다.
-feature: 동적 컨텐츠
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

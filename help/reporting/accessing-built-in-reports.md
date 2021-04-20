@@ -1,15 +1,15 @@
 ---
 title: 기본 제공 보고서 액세스
 description: 내장된 보고 및 분석을 이해하고 배달 보고서를 생성하는 방법을 학습합니다.
-feature: 보고
+feature: Reporting
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

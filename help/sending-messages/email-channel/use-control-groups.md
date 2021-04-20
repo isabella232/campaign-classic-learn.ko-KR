@@ -1,7 +1,7 @@
 ---
 title: 컨트롤 그룹을 사용하는 방법
 description: 컨트롤 그룹의 개념을 파악하고 게재에 컨트롤 그룹을 사용하는 방법을 알아봅니다.
-feature: 컨트롤 그룹
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

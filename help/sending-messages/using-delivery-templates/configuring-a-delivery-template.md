@@ -1,15 +1,15 @@
 ---
 title: Adobe Campaign Classic에서 배달 템플릿 구성
 description: 애드혹 전달에 대한 템플릿을 구성하는 방법에 대해 알아봅니다.
-feature: 배달 템플릿
+feature: Delivery Templates
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 관리자
-level: 초급
+role: Administrator
+level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

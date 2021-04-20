@@ -1,15 +1,15 @@
 ---
 title: Android 서비스 구성 및 Campaign에서 Android 모바일 애플리케이션 만들기
 description: Campaign에서 Android 서비스를 구성하고 Android 모바일 애플리케이션을 만드는 방법을 알아봅니다. 푸시 알림의 대상으로 Neotrip 앱을 정의하는 데 필요합니다.
-feature: 푸시
+feature: Push
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 관리자, 개발자
-level: 경험
+role: Administrator, Developer
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

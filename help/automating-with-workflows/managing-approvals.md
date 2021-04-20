@@ -1,15 +1,15 @@
 ---
 title: 캠페인에서 승인 관리
 description: 승인 및 캠페인을 설정하는 방법과 전달 및 워크플로우 승인을 구분하는 방법을 알아봅니다.
-feature: 워크플로우, 승인
+feature: Workflows, Approvals
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 증명 자료 전송 및 유효성 검사 방법
 description: 증명 자료 전송 및 유효성 검사 방법을 알아봅니다.
-feature: 이메일, 증명 자료
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

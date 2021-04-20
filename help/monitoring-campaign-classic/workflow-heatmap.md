@@ -1,7 +1,7 @@
 ---
 title: 워크플로우 Heatmap
 description: 인스턴스의 로드를 모니터링하고 그에 따라 워크플로우를 계획하는 방법을 알아봅니다.
-feature: 열 지도
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

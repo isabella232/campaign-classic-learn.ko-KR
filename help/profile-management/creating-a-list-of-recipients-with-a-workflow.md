@@ -1,15 +1,15 @@
 ---
 title: 수신자 목록 만들기 워크플로우
 description: 탐색기에서 받는 사람 목록을 구성하여 대상을 만드는 방법을 알아봅니다.
-feature: 대상
+feature: Audiences
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

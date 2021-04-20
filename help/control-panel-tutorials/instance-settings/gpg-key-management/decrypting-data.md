@@ -1,15 +1,15 @@
 ---
 title: 데이터 암호 해독
 description: 아래 비디오에서는 공개 키를 만들고 데이터 암호를 해독하기 위해 Campaign 인스턴스로 가져오고 설치하는 방법을 설명합니다.
-feature: 'Campaign 컨트롤 패널   '
+feature: Control Panel
 topics: null
 kt: 5543
 thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 관리자
-level: 경험
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

@@ -1,15 +1,15 @@
 ---
 title: Adobe Campaign Classic에서 임시 이메일 배달 템플릿 배포
 description: '임시 이메일 배달 템플릿을 배포하고 이메일 배달과 배달 워크플로우의 차이점을 이해하는 방법을 알아봅니다. '
-feature: 배달 템플릿
+feature: Delivery Templates
 topics: Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 관리자
-level: 초급
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
