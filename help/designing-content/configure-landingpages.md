@@ -1,8 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 랜딩 페이지를 구성하는 방법
 description: 기본 설정 센터를 만들어 웹 애플리케이션 편집기를 탐색하는 방법을 알아봅니다.
-feature: Landing Pages
-topics: Configure
+feature: 랜딩 페이지
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Developer, Administrator
 level: Beginner
+exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '91'
 ht-degree: 2%
 
 ---
-
 
 # 랜딩 페이지를 구성하는 방법
 
