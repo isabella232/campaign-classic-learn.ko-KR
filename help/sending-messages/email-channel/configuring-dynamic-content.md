@@ -1,8 +1,7 @@
 ---
-title: 동적 컨텐츠 구성
+title: 다이내믹 콘텐츠 구성
 description: 다양한 유형의 동적 컨텐츠를 파악하고 개인화 블록과 조건문을 만들어 전달하는 방법을 살펴볼 수 있습니다.
-feature: Dynamic Content, Personalization, Email
-topics: null
+feature: 동적 컨텐츠, 개인화, 이메일
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -10,16 +9,16 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 20%
+source-wordcount: '81'
+ht-degree: 28%
 
 ---
 
-
-# 동적 컨텐츠 구성
+# 다이내믹 콘텐츠 구성
 
 다양한 유형의 동적 컨텐츠를 파악하고 개인화 블록과 조건문을 만들어 전달하는 방법을 살펴볼 수 있습니다.
 
