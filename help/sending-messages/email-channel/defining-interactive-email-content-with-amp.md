@@ -1,8 +1,7 @@
 ---
 title: AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의
 description: AMP 형식으로 이메일 콘텐츠를 구성하는 방법을 알아봅니다.
-feature: Email, Email Design
-topics: Create and Send Email Deliveries
+feature: 이메일, 이메일 디자인
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ role: Business Practitioner, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
