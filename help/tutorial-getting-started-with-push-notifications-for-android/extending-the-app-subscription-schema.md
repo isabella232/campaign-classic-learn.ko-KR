@@ -1,8 +1,7 @@
 ---
 title: 푸시 알림을 개인화하기 위해 앱 구독 스키마 확장
 description: Campaign이 모바일 앱으로부터 받은 개인화 값을 저장할 수 있도록 앱 구독 스키마를 확장하는 방법을 알아보십시오.
-feature: Push, Schema Extension
-topics: mobile channels
+feature: 푸시, 스키마 확장
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 2%
 
 ---
-
 
 # 푸시 알림을 개인화하기 위해 [!UICONTROL app subscription] 스키마 확장
 
