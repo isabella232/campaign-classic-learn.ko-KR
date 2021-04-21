@@ -1,8 +1,7 @@
 ---
 title: 기본 제공 보고서 액세스
 description: 내장된 보고 및 분석을 이해하고 배달 보고서를 생성하는 방법을 학습합니다.
-feature: Reporting
-topics: null
+feature: 보고
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '71'
 ht-degree: 12%
 
 ---
-
 
 # 기본 제공 보고서 액세스
 
