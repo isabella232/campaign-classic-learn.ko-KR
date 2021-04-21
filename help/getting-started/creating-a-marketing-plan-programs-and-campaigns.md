@@ -1,8 +1,7 @@
 ---
 title: 마케팅 계획, 프로그램 및 캠페인을 만드는 방법
 description: 크로스채널 마케팅 캠페인을 효과적으로 계획, 실행 및 측정하는 데 도움이 되는 Adobe Campaign의 주요 개념을 이해합니다.
-feature: Campaigns
-topics: Getting started
+feature: 캠페인
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 73%
+source-wordcount: '68'
+ht-degree: 86%
 
 ---
-
 
 # 마케팅 계획, 프로그램 및 캠페인 만들기
 
