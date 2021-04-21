@@ -1,8 +1,7 @@
 ---
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 description: 다이내믹한 콘텐츠 블록을 어떻게 제작하여 이메일 전달 콘텐츠를 개인화하는 방법을 살펴볼 수 있습니다.
-feature: Dynamic Content
-topics: Email Channel
+feature: 동적 컨텐츠
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -12,7 +11,7 @@ role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 67%
