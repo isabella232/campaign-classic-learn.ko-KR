@@ -1,8 +1,7 @@
 ---
 title: SFTP 서버에 연결
 description: Campaign 컨트롤 패널에 저장한 키를 사용하여 클라이언트 SFTP 응용 프로그램을 사용하여 SFTP 서버에 연결하는 방법을 알아봅니다.
-feature: Control Panel
-topics: Control Panel
+feature: Campaign 컨트롤 패널
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
+exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 83%
+source-wordcount: '153'
+ht-degree: 84%
 
 ---
-
 
 # SFTP 서버에 연결
 
