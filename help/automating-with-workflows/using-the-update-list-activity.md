@@ -1,8 +1,7 @@
 ---
 title: 업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기
 description: 워크플로우에 표준 제외를 적용하여 대상을 세분화하는 방법을 살펴볼 수 있습니다. 또한 사전 정의된 필터를 만드는 방법과 워크플로우를 촬영하는 데 어려움을 겪는 방법을 알아봅니다.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: 워크플로우, 타깃팅 활동, 쿼리 편집기
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 34%
+source-wordcount: '128'
+ht-degree: 35%
 
 ---
-
 
 # 업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기
 
