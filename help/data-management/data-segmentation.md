@@ -1,22 +1,21 @@
 ---
 title: Adobe Campaign Classic의 데이터 세그멘테이션
 description: '통합된 고객 프로파일, 프로파일을 생성 및 업데이트하는 방법 및 이러한 프로파일을 기반으로 고객 세그먼트를 만드는 방법을 이해합니다. '
-feature: Profiles, Data Management Activity
-topics: Data Management
+feature: 프로필, 데이터 관리 활동
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
-
 
 # 데이터 세분화
 
@@ -45,4 +44,4 @@ Adobe Campaign 통합 고객 프로파일을 통해 마케터는 해당 데이�
 ## 추가 리소스 {#additional-resources}
 
 * [타깃팅 데이터](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [워크플로우 우수 사례](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [워크플로우 우수 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html?lang=ko)
