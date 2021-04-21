@@ -1,17 +1,16 @@
 ---
 title: Adobe Campaign Classic의 이메일 전달 활동과 배달 활동 비교
 description: 이 비디오에서는 배달 템플릿을 구성하고 사용하는 방법에 대해 설명합니다.
-feature: Delivery Templates
-topics: Templates
+feature: 배달 템플릿
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
