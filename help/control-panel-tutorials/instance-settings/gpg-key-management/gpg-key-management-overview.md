@@ -1,20 +1,19 @@
 ---
 title: GPG 키 관리 - 개요
 description: 다음 비디오에서는 아웃바운드 데이터의 암호화를 위해 지정된 Campaign 인스턴스에 공개/개인 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 설명합니다.
-feature: Control Panel
-topics: GPG Key Management
+feature: Campaign 컨트롤 패널
 team: TM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
+exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 98%
+source-wordcount: '163'
+ht-degree: 100%
 
 ---
-
 
 # GPG 키 관리 - 개요
 
