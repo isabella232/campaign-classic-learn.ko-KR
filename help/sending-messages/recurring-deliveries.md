@@ -1,22 +1,21 @@
 ---
 title: 반복 및 연속 이메일 캠페인을 설정하는 방법
 description: 반복 및 연속 전달을 설정하고 두 접근 방식의 차이점을 이해하는 방법을 알아봅니다.
-feature: Workflows
-topics: channel activities
+feature: 워크플로우
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '267'
 ht-degree: 6%
 
 ---
-
 
 # 반복 및 연속 이메일 캠페인을 설정하는 방법
 
