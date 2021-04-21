@@ -1,8 +1,7 @@
 ---
-title: 이메일 배달 문제 해결
+title: 이메일 게재 문제 해결
 description: Campaign에서 이메일 배달 문제를 해결하는 방법을 알아봅니다.
-feature: Email, Deliverability
-topics: deliverability
+feature: 이메일, 게재 가능성
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
@@ -10,16 +9,16 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 0%
+source-wordcount: '28'
+ht-degree: 35%
 
 ---
 
-
-# 이메일 배달 문제 해결
+# 이메일 게재 문제 해결
 
 Campaign에서 이메일 배달 문제를 해결하는 방법을 알아봅니다.
 
