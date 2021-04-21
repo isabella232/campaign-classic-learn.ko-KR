@@ -1,8 +1,7 @@
 ---
 title: Snowflake에 대한 빅데이터 관리
 description: Adobe Campaign Classic에서 Snowflake 커넥터를 활용하는 방법 살펴보기
-feature: Federated Data Access
-topics: FDA
+feature: 통합 데이터 액세스
 kt: 4405
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ role: Administrator, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 6%
