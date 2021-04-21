@@ -1,16 +1,15 @@
 ---
 title: Campaign 컨트롤 패널 문제 해결
 description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
-feature: Control Panel
-topics: Control Panel
+feature: Campaign 컨트롤 패널
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
