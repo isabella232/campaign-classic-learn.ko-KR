@@ -1,8 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 배달 템플릿 속성 설정
 description: 배달 템플릿 속성을 구성하는 방법을 알아봅니다.
-feature: Delivery Templates
-topics: Templates
+feature: 배달 템플릿
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 23%
 
 ---
-
 
 # 게재 템플릿 속성 설정 {#setting-the-delivery-template-properties}
 
