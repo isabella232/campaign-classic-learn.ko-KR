@@ -1,8 +1,7 @@
 ---
 title: 수신자 목록 만들기
 description: 탐색기에서 받는 사람 목록을 구성하여 대상을 만드는 방법을 알아봅니다.
-feature: Audiences
-topics: Getting started
+feature: 대상
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 70%
+source-wordcount: '107'
+ht-degree: 71%
 
 ---
-
 
 # 수신자 목록 만들기
 
