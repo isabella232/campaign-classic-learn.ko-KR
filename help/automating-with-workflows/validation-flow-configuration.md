@@ -13,10 +13,9 @@ team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ Adobe Campaign은 마케터가 전달 컨텐츠, 캠페인 목표, 데이터 추
 
 이 자습서에서는 다양한 승인 유효성 검사 워크플로우를 구성하는 방법에 대해 설명합니다.
 
-## 필수 조건 {#prerequisite}
+## 사전 요구 사항 {#prerequisite}
 
 승인 단계를 활성화하기 전에 마케팅 팀은 개별 검토자를 정의해야 합니다.
 
@@ -52,4 +51,4 @@ Adobe Campaign은 마케터가 전달 컨텐츠, 캠페인 목표, 데이터 추
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-자세한 내용은 [승인 설명서](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)를 참조하십시오.
+자세한 내용은 [승인 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)를 참조하십시오.
