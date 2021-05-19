@@ -10,10 +10,10 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
+source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 50%
+source-wordcount: '146'
+ht-degree: 43%
 
 ---
 
@@ -34,9 +34,9 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하고 수
 설명서:
 
 * [개인화 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([개인화 블록](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [개인화 블록](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 비디오 튜토리얼:
 
 * [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [이메일 개인화 - 조건부 컨텐츠를 사용하여 다국어 뉴스레터 만들기](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
