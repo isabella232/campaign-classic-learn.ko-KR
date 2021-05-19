@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 34%
+source-wordcount: '147'
+ht-degree: 50%
 
 ---
 
-# 개인화 필드를 사용하여 이메일 개인화
 
-개인화 필드는 게재된 메시지 콘텐츠의 첫 번째 수준 개인화에 사용됩니다. 기본 컨텐츠에 삽입하는 필드는 선택한 데이터 소스의 데이터를 삽입할 위치를 보여줍니다.
+# 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 
-개인화 필드를 제목 줄 및 이메일 전달의 컨텐츠에 추가하는 방법을 알아봅니다.
+Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하고 수신자 프로필의 조건과 결합할 수 있습니다.
+
+개인화 블록은 동적이고 개인화된 블록이며 배달에 추가할 수 있는 특정 렌더링 코드를 포함합니다. 예를 들어 이미지, 이메일 머리글, 이메일 바닥글, 미러 페이지 링크, 구독 취소 링크 등을 추가할 수 있습니다.
+
+다이내믹한 콘텐츠 블록을 만든 방법과 이를 사용하여 이메일 전달 콘텐츠를 개인화하는 방법을 살펴볼 수 있습니다.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
