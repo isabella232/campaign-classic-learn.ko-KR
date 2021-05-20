@@ -4,9 +4,8 @@ user-guide-description: 이 튜토리얼에서는 Adobe Campaign에서 Android �
 breadcrumb-title: Android용 푸시 알림 시작
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
 index: true
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
