@@ -4,12 +4,11 @@ user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니�
 breadcrumb-title: Campaign 컨트롤 패널 자습서
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Control Panel
+feature: Campaign 컨트롤 패널
 role: Administrator
 level: Experienced
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
