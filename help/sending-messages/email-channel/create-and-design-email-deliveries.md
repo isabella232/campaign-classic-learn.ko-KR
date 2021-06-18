@@ -11,9 +11,9 @@ role: Business Practitioner
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 source-git-commit: 7030ab5bb0571579459410688f4ee3174696d5a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 80%
 
 ## 추가 리소스
 
-* [이메일 컨텐츠 정의(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
+* [이메일 콘텐츠 정의(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=ko)
