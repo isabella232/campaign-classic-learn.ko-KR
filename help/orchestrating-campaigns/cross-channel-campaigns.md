@@ -9,20 +9,20 @@ activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
 source-git-commit: 8eee5de1b133fea146a2b05b1489b786e3117f9f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # 크로스채널 캠페인 만들기
 
-크로스 채널 캠페인에서 단일 마케팅 커뮤니케이션은 여러 채널을 사용하여 선호하는 수신자 채널을 기반으로 더 광범위한 타겟 고객에게 도달합니다.
+크로스채널 캠페인에서 단일 마케팅 커뮤니케이션은 여러 채널을 활용하여 선호하는 사용자 채널을 기반으로 광범위한 타깃 대상자에게 도달합니다.
 
-이메일, SMS 및 DM 전송을 사용하여 크로스 채널 캠페인을 만드는 방법을 알아봅니다.
+이메일, SMS 및 DM 게재를 사용하여 다중 채널 캠페인 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
 ## 추가 리소스
 
-* [다중 채널 및 크로스 채널 캠페인 소개](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+* [멀티채널 및 크로스채널 캠페인 소개](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
