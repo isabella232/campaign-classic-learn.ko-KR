@@ -1,28 +1,27 @@
 ---
 title: 개인화 필드를 사용하여 이메일 개인화
-description: 개인화 필드를 제목 줄 및 이메일 전달의 컨텐츠에 추가하는 방법을 알아봅니다.
-feature: 동적 컨텐츠
+description: 제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
+feature: 다이내믹 콘텐츠
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 37%
+ht-degree: 84%
 
 ---
 
 # 개인화 필드를 사용하여 이메일 개인화
 
-개인화 필드는 게재된 메시지 콘텐츠의 첫 번째 수준 개인화에 사용됩니다. 기본 컨텐츠에 삽입하는 필드는 선택한 데이터 소스의 데이터를 삽입할 위치를 보여줍니다.
+개인화 필드는 게재된 메시지 콘텐츠의 첫 번째 수준 개인화에 사용됩니다. 주 콘텐츠에 삽입하는 필드는 선택한 데이터 소스의 데이터를 삽입할 위치를 보여줍니다.
 
-개인화 필드를 제목 줄 및 이메일 전달의 컨텐츠에 추가하는 방법을 알아봅니다.
+제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
