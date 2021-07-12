@@ -1,26 +1,26 @@
 ---
-title: 타겟팅 워크플로우 만들기
-description: 타깃팅 워크플로우를 사용하여 몇 개의 전달 대상을 정의하는 방법을 알아봅니다.
-feature: 워크플로우, 타깃팅 활동, 쿼리 편집기
+title: 타기팅 워크플로우 만들기
+description: 타기팅 워크플로우를 사용하여 여러 게재 타깃을 정의하는 방법을 알아봅니다.
+feature: 워크플로우, 타기팅 활동, 쿼리 편집기
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 9%
+ht-degree: 56%
 
 ---
 
-# 타겟팅 워크플로우 만들기
+# 타기팅 워크플로우 만들기
 
-Adobe Campaign은 워크플로우를 사용하여 타깃팅 캠페인을 수행하거나 캠페인을 구축하거나 Adobe Campaign 기술 프로세스를 실행합니다. 이 비디오에서는 타깃팅 워크플로우에 초점을 둡니다. 타깃팅 워크플로우를 사용하면 여러 게재 타겟을 만들 수 있습니다.
+Adobe Campaign은 워크플로우를 사용하여 타기팅 캠페인을 수행하거나 캠페인을 빌드하거나 Adobe Campaign 기술 프로세스를 실행합니다. 이 비디오에서는 워크플로우 타겟팅에 중점을 둡니다. 타겟팅 워크플로우를 사용하여 여러 게재 타겟을 만들 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-워크플로우 [정보 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)를 참조하십시오.
-및 [타깃팅 활동](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)에 대한 자세한 내용을 참조하십시오.
+워크플로우 정보 [설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ko)를 참조하십시오
+및 [타깃팅 활동 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 를 참조하십시오.
