@@ -1,19 +1,18 @@
 ---
 title: 프로필을 가져오는 방법
-description: Adobe Campaign Classic에서 프로필을 가져오는 방법 살펴보기
+description: Adobe Campaign Classic에서 프로필을 가져오는 방법을 알아봅니다
 feature: 프로필
 kt: 2176
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 24%
+ht-degree: 33%
 
 ---
 
