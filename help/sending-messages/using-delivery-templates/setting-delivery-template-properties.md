@@ -1,26 +1,25 @@
 ---
-title: Adobe Campaign Classic에서 배달 템플릿 속성 설정
-description: 배달 템플릿 속성을 구성하는 방법을 알아봅니다.
-feature: 배달 템플릿
+title: Adobe Campaign Classic에서 게재 템플릿 속성 설정
+description: 게재 템플릿 속성을 구성하는 방법을 알아봅니다.
+feature: 게재 템플릿
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 23%
+ht-degree: 79%
 
 ---
 
 # 게재 템플릿 속성 설정 {#setting-the-delivery-template-properties}
 
-다음 비디오에서는 배달 템플릿 속성을 설정하는 방법을 보여 주고 각 속성에 대해 자세히 설명합니다.
+다음 비디오에서는 게재 템플릿 속성을 설정하는 방법을 보여 주고 각 속성에 대해 자세히 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
 
@@ -33,7 +32,7 @@ ht-degree: 23%
 
 설명서:
 
-* [템플릿 정보](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [배달 템플릿 만들기](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [대상 매핑 선택](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [템플릿에서 게재 만들기](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [템플릿 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ko)
+* [게재 템플릿 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=ko)
+* [대상 매핑 선택](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=ko)
+* [템플릿에서 게재 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=ko)
