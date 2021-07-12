@@ -1,7 +1,7 @@
 ---
 title: 허용 목록에 IP 주소 추가
 seo-title: 허용 목록에 IP 주소 추가
-description: Campaign Classic 인스턴스의 허용 목록에 IP 범위를 추가하는 방법과 제어 패널을 사용하여 허용 목록에서 IP 범위를 제거하는 방법을 알아봅니다.
+description: Campaign Classic 인스턴스의 허용 목록에 IP 범위를 추가하는 방법과 컨트롤 패널을 사용하여 허용 목록에서 IP 범위를 제거하는 방법을 알아봅니다.
 seo-description: 아래 비디오에서는 IP 주소 범위를 허용 목록에 추가하여 인스턴스에 새 연결을 설정하는 방법을 설명합니다.
 feature: Campaign 컨트롤 패널
 kt: 3479
@@ -9,11 +9,11 @@ thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 70%
@@ -37,7 +37,7 @@ Campaign 컨트롤 패널의 하위 도메인 관리에 액세스하려면 다�
 
 ## 인스턴스의 허용 목록에 IP 범위 추가
 
-Campaign Classic 인스턴스의 허용 목록에 IP 범위를 추가하는 방법과 제어 패널을 사용하여 허용 목록에서 IP 범위를 제거하는 방법을 알아봅니다.
+Campaign Classic 인스턴스의 허용 목록에 IP 범위를 추가하는 방법과 컨트롤 패널을 사용하여 허용 목록에서 IP 범위를 제거하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
