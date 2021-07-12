@@ -6,17 +6,17 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
 ---
 
-# 워크플로우 Heatmap
+# 워크플로우 열 지도
 
 Adobe Campaign 워크플로우 HeatMap은 현재 실행 중인 모든 워크플로우를 색상으로 구분된 그래픽으로 표시합니다.  동시 실행 워크플로우의 수에 대한 빠른 개요를 제공함으로써 Adobe Campaign 플랫폼 관리자는 인스턴스의 로드를 모니터링하고 그에 따라 워크플로우를 계획할 수 있습니다.
 
