@@ -1,6 +1,6 @@
 ---
 title: 멀티채널 캠페인 만들기
-description: 이메일, SMS 및 DM 게재를 사용하여 다중 채널 캠페인 만드는 방법을 알아봅니다.
+description: 수신자가 선호하는 채널을 기반으로 이메일, SMS 및 DM 게재를 사용하여 멀티채널 캠페인을 만드는 방법을 알아봅니다.
 feature: 워크플로우
 kt: 1563
 thumbnail: 24981.jpg
@@ -10,20 +10,18 @@ team: TM
 role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: cfd9148fddd9bfca9595f5acacc3e9d9d9140020
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 70%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 # 다중 채널 캠페인 만들기
 
-다중 채널 캠페인에서 단일 마케팅 커뮤니케이션은 선호하는 수신자 채널을 기반으로 더 광범위한 타겟 대상에 도달하기 위해 여러 채널을 사용합니다.
+다중 채널 캠페인에서 단일 마케팅 커뮤니케이션은 여러 채널을 사용하여 더 넓은 타겟 대상에 도달합니다. 채널은 서로 연결되어 있지 않고 독립적으로 사용됩니다. 즉, 고객이 하나의 워크플로우 내에서 하나의 채널에 머무르고 있습니다.
 
-다중 채널 게재는 단일 워크플로우에서 디자인 및 실행됩니다.
-
-이메일, SMS 및 DM 게재를 사용하여 다중 채널 캠페인 만드는 방법을 알아봅니다.
+수신자가 선호하는 채널을 기반으로 이메일, SMS 및 DM 게재를 사용하여 멀티채널 캠페인을 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
