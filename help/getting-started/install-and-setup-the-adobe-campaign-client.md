@@ -10,10 +10,10 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 63%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 ## 추가 리소스
 
-* [호환성 매트릭스](https://helpx.adobe.com/kr/campaign/kb/compatibility-matrix.html)
-* [클라이언트 콘솔 설치](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/installing-campaign-classic/installing-campaign-in-windows-/installing-the-client-console.html)
-* [Campaign Classic 구현 안내서](https://helpx.adobe.com/kr/campaign/kb/acc-implementation.html)
+* [호환성 매트릭스](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=en#compatibility-matrix)
+* [클라이언트 콘솔 설치](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=en)
+* [Campaign Classic 구현 안내서](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html)
