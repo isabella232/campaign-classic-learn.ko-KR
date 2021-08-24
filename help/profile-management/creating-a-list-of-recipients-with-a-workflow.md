@@ -1,5 +1,5 @@
 ---
-title: 수신자 목록 만들기 워크플로우 사용
+title: 워크플로우를 사용하여 수신자 목록 만들기
 description: Explorer에서 수신자 목록을 구성하여 대상자를 만드는 방법을 알아봅니다.
 feature: 대상자
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 50%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 50%
 
 설명서:
 
-* [목록 만들기 및 관리](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [목록 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 자습서:
 
