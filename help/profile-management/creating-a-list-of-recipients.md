@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 71%
+ht-degree: 62%
 
 ---
 
@@ -29,7 +29,7 @@ Explorer에서 수신자 목록을 구성하여 대상자를 만드는 방법을
 
 설명서:
 
-* [목록 만들기 및 관리](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [목록 만들기 및 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 자습서:
 
