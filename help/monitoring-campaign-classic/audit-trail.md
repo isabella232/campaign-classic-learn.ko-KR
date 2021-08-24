@@ -9,16 +9,16 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 감사 추적 사용 방법
 
-[!UICONTROL Audit Trail]은(는) Adobe Campaign 내에서 발생하는 작업 및 이벤트의 포괄적인 목록을 실시간으로 캡처합니다. [!UICONTROL Audit Trail] 기능에는 다음과 같은 질문에 답변할 수 있도록 데이터 기록에 액세스하는 셀프서비스 방법이 포함되어 있습니다.
+[!UICONTROL Audit Trail] 은(는) Adobe Campaign 내에서 발생하는 작업 및 이벤트의 포괄적인 목록을 실시간으로 캡처합니다. [!UICONTROL Audit Trail] 기능에는 다음과 같은 질문에 답변할 수 있도록 데이터 기록에 액세스하는 셀프서비스 방법이 포함되어 있습니다.
 
 * 개체는 어떻게 되었습니까?
 * 누가 그리고 언제 마지막으로 수정했습니까?
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >감사 추적에는 Campaign Classic 버전 19.1 이상이 필요합니다.
 
-[!UICONTROL Audit Trail]은(는) 워크플로우, 옵션 및 소스 스키마에 대한 만들기, 수정 및 삭제와 같은 운영자 작업을 로그하고 나열합니다. 또한 다음 작업이 워크플로우에 대해 특별히 로그됩니다.
+[!UICONTROL Audit Trail] 로그 및 목록 운영자 작업(예: 워크플로우, 옵션 및 소스 스키마 만들기, 수정 및 삭제)입니다. 또한 다음 작업이 워크플로우에 대해 특별히 로그됩니다.
 
 * 시작
 * 일시 정지
@@ -43,4 +43,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-자세한 내용은 [감사 추적 설명서](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)에서 확인할 수 있습니다.
+자세한 내용은 [감사 추적 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=en)에서 확인할 수 있습니다.
