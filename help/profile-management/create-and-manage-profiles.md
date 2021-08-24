@@ -11,10 +11,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,6 @@ Adobe Campaign Classic의 프로필 개념을 이해합니다. 프로필 데이�
 
 **설명서:**
 
-* [프로필 기본 정보](https://docs.adobe.com/content/help/ko-KR/campaign-classic/using/getting-started/profile-management/about-profiles.html)
-* [프로필 편집](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/editing-a-profile.html)
-* [프로필 관리](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/adding-profiles.html)
+* [프로필 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en)
+* [프로필 편집](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=en)
+* [프로필 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/adding-profiles.html?lang=en)
