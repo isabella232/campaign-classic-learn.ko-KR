@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 53%
+source-wordcount: '280'
+ht-degree: 45%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign 관리자는 [!UICONTROL Control Panel]을(를) 통해 주요 자
 
 ## [!UICONTROL Control Panel]에 액세스 
 
-Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈으로 이동하십시오. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Campaign 컨트롤 패널에 액세스하려면 Experience Cloud 홈으로 이동합니다. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -48,7 +48,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
 ### [!DNL IMS Org ID] 확인 
 
-자신의 [!DNL IMS org ID]을(를) 알아야 합니다. 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]을(를) 조회할 수 있는 위치를 설명합니다.
+다음 비디오에서는 인스턴스의 [!DNL IMS org ID]을(를) 조회할 수 있는 위치를 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -61,4 +61,4 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
 ## 추가 리소스
 
-* [Campaign 컨트롤 패널 도움말 센터](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
+* [Campaign 컨트롤 패널 도움말 센터](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
