@@ -1,7 +1,7 @@
 ---
 title: SSH 키 생성
 description: 터미널을 사용하여 SSH 키를 생성하는 방법과 Campaign 컨트롤 패널에 키의 공개 버전을 저장하는 방법을 알아봅니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
 doc-type: feature video
@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 exl-id: 6ff9713c-9392-425d-9a13-3c1cc7afe2c2
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 64%
+source-wordcount: '129'
+ht-degree: 28%
 
 ---
 
@@ -29,7 +29,7 @@ Campaign 컨트롤 패널에서 SFTP 관리에 액세스하려면 다음 위치�
 * [Experience Cloud 홈](https://experience.adobe.com/#/home) > 솔루션 선택기: **[!DNL Campaign]** > **Campaign 컨트롤 패널** 카드 > **SFTP** 카드
 
    또는
-* 다음 URL에서 직접 액세스: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+* 다음 URL에서 직접 액세스: [http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)
 
 ## SSH 키를 생성하는 방법
 
