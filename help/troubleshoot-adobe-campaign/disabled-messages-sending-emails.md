@@ -1,14 +1,14 @@
 ---
 title: 비활성화된 메시지에 의해 트리거되는 전자 메일
 description: 전자 메일 트리거에서 비활성화된 메시지를 수정하는 방법을 알아봅니다.
-feature: null
+feature: Email
 role: Admin
 level: Experienced
 topic: Development
 kt: 8425
-source-git-commit: 4515849a9302f05948faedf03b642d6e29747997
+source-git-commit: 548739ef758c91beb68107847bfccebfceee5ac1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
