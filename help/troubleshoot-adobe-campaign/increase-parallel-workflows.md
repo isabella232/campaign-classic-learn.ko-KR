@@ -4,15 +4,15 @@ description: 인스턴스에서 동시에 실행할 수 있는 캠페인 워크�
 feature: Workflows
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8426
-source-git-commit: 632e0cb3d9cc04f635092860b1a10100782709d1
+exl-id: 9a31159a-ffc0-41d2-8c3b-68a5d6f77fc4
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
-
 
 # 병렬 실행 워크플로우의 수를 늘립니다
 

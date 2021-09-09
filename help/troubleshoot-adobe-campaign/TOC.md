@@ -1,16 +1,16 @@
 ---
 user-guide-title: Adobe Campaign 문제 해결
-user-guide-description: Adobe Campaign 문제를 해결하는 방법에 대한 도움말을 찾습니다.
+user-guide-description: Adobe Campaign의 문제를 해결하는 방법에 대한 도움말을 확인할 수 있습니다.
 breadcrumb-title: Adobe Campaign 문제 해결
 breadcrumb-url: /docs/campaign-classic-learn/troubleshoot-adobe-campaign/overview.html
 index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 8a6be644fe36317461efc9c2fdf73c2dc264c211
+source-git-commit: 80436fb4a92e9d7b6591350e4a38e3f4eec6db88
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
