@@ -4,17 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
+source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
 workflow-type: tm+mt
 source-wordcount: '369'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +22,7 @@ ht-degree: 95%
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [캠페인 및 이메일 만들기](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [워크플로우에서 프로필 타깃팅하기](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [워크플로우에서 프로필 타겟팅하기](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [이벤트가 트리거된 캠페인 만들기](/help/getting-started/create-event-triggered-campaigns.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
@@ -39,9 +32,9 @@ ht-degree: 95%
 + 메시지 보내기{#sending-messages}
    + 이메일 채널{#email-channel}
       + [이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [이메일에서 시드 및 증명 자료 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [증명 자료 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [컨트롤 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
+      + [이메일의 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [증명 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [통제 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
       + [다이내믹 콘텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -56,7 +49,7 @@ ht-degree: 95%
    + 푸시 채널 {#push-channel}
       + [모바일 앱 채널 설치](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Experience Platform Mobile SDK를 사용하여 푸시 채널 구성](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Android용 푸시 알림 시작(튜토리얼)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=ko)
+      + [Android에서 푸시 알림 시작(튜토리얼)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=ko)
    + DM {#direct-mail}
       + [DM 게재 만들기](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 게재 템플릿 사용{#using-delivery-templates}
@@ -65,35 +58,35 @@ ht-degree: 95%
       + [애드혹 이메일 게재 템플릿 배포](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + 피로도 관리{#fatigue-management}
       + [분류 유형 규칙 사용](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [미리 정의된 필터 사용](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [미리 정의한 필터 사용](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + [구독 서비스 구성 및 관리](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 캠페인 오케스트레이션 {#orchestration}
    + [캠페인 실행](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [멀티채널 및 크로스 채널 캠페인 소개](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [멀티채널 및 크로스채널 캠페인 소개](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [멀티채널 캠페인 만들기](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + 보고서 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/accessing-built-in-reports.md)
-   + [설명 분석 보고서 생성](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 워크플로우 {#automating-with-workflows}로 자동화
+   + [서술형 분석 보고서 생성](/help/reporting/generating-a-descriptive-analysis-report.md)
++ 워크플로우를 사용한 자동화 {#automating-with-workflows}
    + [워크플로우 만들기](/help/automating-with-workflows/creating-a-workflow.md)
-   + [타기팅 워크플로우 만들기](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [타겟팅 워크플로우 만들기](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [쿼리 결과를 제외하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [업데이트 목록 활동을 사용하여 워크플로우가 있는 목록 만들기](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [목록 업데이트 활동을 사용하여 워크플로우를 통해 목록 만들기](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [유효성 검사 워크플로우 구성](/help/automating-with-workflows/validation-flow-configuration.md)
    + [데이터 보강 활동 구성](/help/automating-with-workflows/enrichment-activity.md)
    + [데이터 세분화](/help/data-management/data-segmentation.md)
    + [승인 관리](/help/automating-with-workflows/managing-approvals.md)
-+ 내용 디자인{#designing-content}
++ 콘텐츠 디자인{#designing-content}
    + [랜딩 페이지 구성](/help/designing-content/configure-landingpages.md)
-+ 모니터 {#monitoring}
++ 모니터링 {#monitoring}
    + [워크플로우 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/monitoring-campaign-classic/audit-trail.md)
-+ {#integrating} 통합
++ 통합 {#integrating}
    + [Dynamics 365를 Adobe Campaign Classic과 통합하는 방법](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.htmlko?lang=)
