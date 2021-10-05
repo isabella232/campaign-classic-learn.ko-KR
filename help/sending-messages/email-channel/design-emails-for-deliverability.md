@@ -1,7 +1,7 @@
 ---
 title: 이메일을 디자인할 때 게재 가능성을 확신하기 위해서는 어떻게 해야 하나요?
 description: 게재 가능성 모범 사례를 적용하는 방법을 알아봅니다.
-feature: 이메일, 게재 가능성
+feature: Email, Deliverability
 kt: 5095
 thumbnail: 330943.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '43'
+workflow-type: ht
+source-wordcount: '41'
 ht-degree: 100%
 
 ---
