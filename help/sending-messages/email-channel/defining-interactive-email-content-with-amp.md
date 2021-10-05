@@ -1,7 +1,7 @@
 ---
 title: AMP로 대화형 이메일 콘텐츠 정의하기
 description: AMP 형식으로 이메일 콘텐츠를 구성하는 방법을 알아봅니다.
-feature: 이메일, 이메일 디자인
+feature: Email, Email Design
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '104'
+workflow-type: ht
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
