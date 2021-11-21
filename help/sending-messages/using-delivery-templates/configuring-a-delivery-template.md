@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 게재 템플릿 구성
 description: 임시 게재용 템플릿을 구성하는 방법을 알아봅니다.
-feature: 게재 템플릿
+feature: Delivery Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '176'
 ht-degree: 92%
 
 ---

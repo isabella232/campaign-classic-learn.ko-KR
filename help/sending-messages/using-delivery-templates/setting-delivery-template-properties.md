@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 게재 템플릿 속성 설정
 description: 게재 템플릿 속성을 구성하는 방법을 알아봅니다.
-feature: 게재 템플릿
+feature: Delivery Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 79%
 
 ---

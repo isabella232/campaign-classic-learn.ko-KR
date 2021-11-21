@@ -1,7 +1,7 @@
 ---
 title: 수신자 목록 만들기
 description: Explorer에서 수신자 목록을 구성하여 대상자를 만드는 방법을 알아봅니다.
-feature: 대상자
+feature: Audiences
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 62%
+source-wordcount: '106'
+ht-degree: 59%
 
 ---
 
@@ -35,4 +35,4 @@ Explorer에서 수신자 목록을 구성하여 대상자를 만드는 방법을
 
 * [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
 * [프로필 가져오기](/help/data-management/importing-profiles.md)
-* [워크플로우를 사용하여 수신자 목록 만들기](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [수신자 목록 만들기 워크플로우 사용](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)

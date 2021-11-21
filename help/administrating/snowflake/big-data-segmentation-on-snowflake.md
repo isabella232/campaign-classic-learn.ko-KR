@@ -1,7 +1,7 @@
 ---
 title: Snowflake에서 빅데이터 관리
 description: Adobe Campaign Classic에서 Snowflake 커넥터를 활용하는 방법을 알아봅니다
-feature: FDA(Federated Data Access)
+feature: Federated Data Access
 kt: 4405
 doc-type: feature video
 activity: use
@@ -11,14 +11,14 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 63%
+source-wordcount: '107'
+ht-degree: 62%
 
 ---
 
 # Snowflake에서 빅데이터 관리
 
-이 자습서에서는 Adobe Campaign Classic에서 [!DNL Snowflake] 커넥터를 활용하는 방법을 설명합니다.
+이 튜토리얼에서는 다음을 활용하는 방법을 설명합니다 [!DNL Snowflake] Adobe Campaign Classic의 커넥터.
 다음 방법을 배울 수 있습니다
 
 * Snowflake에 연결

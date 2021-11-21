@@ -1,7 +1,7 @@
 ---
 title: 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 description: 다국어 뉴스레터의 예에서 전달 시 조건부 컨텐츠를 추가하는 방법을 알아봅니다.
-feature: 다이내믹 콘텐츠
+feature: Dynamic Content
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 38%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 유효성 검사 워크플로우를 구성하는 방법
 description: 다양한 승인 유효성 검사 워크플로우를 구성하는 방법을 알아봅니다.
-feature: 워크플로우, 승인
+feature: Workflows, Approvals
 kt: 1566
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '269'
 ht-degree: 96%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 서버 용량 모니터링
 description: 인스턴스별로 SFTP 저장소를 모니터링하고 관리하고 허용 목록에 IP 주소를 추가하는 방법을 알아봅니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -14,14 +14,14 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 53%
+source-wordcount: '90'
+ht-degree: 80%
 
 ---
 
 # 서버 용량 모니터링
 
-Campaign 컨트롤 패널을 사용하면 인스턴스별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
+Campaign 컨트롤 패널에서 SFTP 저장소를 인스턴스별로 모니터링 및 관리할 수 있습니다.
 
 ## [!UICONTROL Control Panel] 하위 도메인 관리 액세스
 

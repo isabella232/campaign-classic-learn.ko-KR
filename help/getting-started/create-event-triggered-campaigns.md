@@ -1,7 +1,7 @@
 ---
 title: 이벤트가 트리거된 캠페인 만들기
 description: 이벤트가 트리거된 캠페인을 만들고 사용법을 알아봅니다.
-feature: 워크플로우, 타기팅 활동
+feature: Workflows, Targeting Activity
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: da1f498c-b60a-4835-ace0-b99911221bd2
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '32'
 ht-degree: 100%
 
 ---

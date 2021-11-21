@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic의 데이터 세그멘테이션
 description: 'Integrated Customer Profile, 프로필 만들기 및 업데이트 방법, 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법을 알아봅니다. '
-feature: 프로필, 데이터 관리 활동
+feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
 activity: use
@@ -11,14 +11,14 @@ level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 source-git-commit: 6330e92e4e960d14ced70a04bc7330c56e6ba53a
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 2%
+source-wordcount: '300'
+ht-degree: 5%
 
 ---
 
 # 데이터 세분화
 
-Adobe Campaign을 사용하면 일반적인 소비자 속성 및 기타 데이터 소스의 딥 쿼리를 통해 고급 세그멘테이션을 수행할 수 있으므로 재사용 가능한 목록을 만들고, 데이터의 실시간 변경 사항을 기반으로 목록을 동적으로 업데이트하고, 이러한 데이터 포인트에서 다변량 테스트 등의 더 복잡한 작업을 수행할 수 있습니다. 이 자습서에서는 통합 고객 프로필, 프로필을 만들고 업데이트하는 방법 및 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법에 대해 설명합니다.
+Adobe Campaign을 사용하면 일반적인 소비자 속성 및 기타 데이터 소스의 딥 쿼리를 통해 고급 세그멘테이션을 수행할 수 있으므로 재사용 가능한 목록을 만들고, 데이터의 실시간 변경 사항을 기반으로 목록을 동적으로 업데이트하고, 이러한 데이터 포인트에서 다변량 테스트와 같은 더 복잡한 작업을 수행할 수 있습니다. 이 자습서에서는 통합 고객 프로필, 프로필을 만들고 업데이트하는 방법 및 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법에 대해 설명합니다.
 
 ## Integrated Customer Profile {#integrated-customer-profile}
 
@@ -43,4 +43,4 @@ Adobe Campaign의 통합 고객 프로필을 통해 마케터는 해당 데이�
 ## 추가 리소스 {#additional-resources}
 
 * [데이터 타겟팅(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/targeting-data.html)
-* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html)
+* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ko)

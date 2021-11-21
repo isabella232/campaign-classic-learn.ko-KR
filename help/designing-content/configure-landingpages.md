@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 랜딩 페이지를 구성하는 방법
 description: 기본 설정 센터를 만들어 웹 애플리케이션 편집기를 탐색하는 방법을 알아봅니다.
-feature: 랜딩 페이지
+feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 34%
 
 ---
 
@@ -25,4 +25,4 @@ Adobe Campaign Classic을 사용하면 온라인 설문 조사, 기본 설정 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-자세한 내용은 [랜딩 페이지 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)에 대한 세부 설명서를 참조하십시오.
+자세한 내용은 [랜딩 페이지 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

@@ -1,7 +1,7 @@
 ---
 title: 워크플로우 만들기
 description: 이 비디오에서는 워크플로우를 만드는 방법을 설명합니다.
-feature: 워크플로우
+feature: Workflows
 kt: 2175
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
 source-git-commit: 9e48cf10e4f1f264fb84bda07458dfc80e082a08
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '90'
 ht-degree: 83%
 
 ---

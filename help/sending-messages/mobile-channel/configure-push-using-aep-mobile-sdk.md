@@ -1,7 +1,7 @@
 ---
 title: 'Experience Platform Mobile SDK를 사용하여 푸시 채널 구성 '
 description: 'Experience Cloud Mobile SDK를 사용하여 푸시 채널을 구성하는 방법을 알아봅니다. '
-feature: 푸시
+feature: Push
 kt: 2683
 doc-type: feature video
 activity: setup
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
 source-git-commit: e4d647150bad188430046abf1067244f922a45b9
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 66%
+source-wordcount: '70'
+ht-degree: 65%
 
 ---
 

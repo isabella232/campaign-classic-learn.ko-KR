@@ -1,7 +1,7 @@
 ---
 title: Google TXT 레코드 관리
 description: Campaign 컨트롤 패널을 통해 GMAIL 주소로 이메일을 보내는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가할 수 있습니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 4744
 thumbnail: 32369.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 90%
 
 ---

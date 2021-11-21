@@ -1,7 +1,7 @@
 ---
 title: 데이터 암호 해독
 description: 아래 비디오에서는 공개 키를 만들고 데이터 암호를 해독하기 위해 Campaign 인스턴스로 가져오고 설치하는 방법을 설명합니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 kt: 5543
 thumbnail: 36482.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 100%
 
 ---

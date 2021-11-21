@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 임시 이메일 전달 템플릿 배포
 description: '임시 이메일 게재 템플릿을 배포하고 이메일 게재와 게재 워크플로우의 차이점을 이해하는 방법을 알아봅니다. '
-feature: 게재 템플릿
+feature: Delivery Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 61%
 
 ---

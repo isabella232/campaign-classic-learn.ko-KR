@@ -1,7 +1,7 @@
 ---
-title: 설명 분석 보고서 생성
+title: 서술형 분석 보고서 생성
 description: Adobe Campaign Classic의 작업 과정에서 설명 분석 보고서를 생성하는 방법을 알아봅니다.
-feature: 보고
+feature: Reporting
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 56%
+source-wordcount: '63'
+ht-degree: 55%
 
 ---
 
-# 설명 분석 보고서 생성
+# 서술형 분석 보고서 생성
 
-워크플로우에서 [!UICONTROL descriptive analysis report]을(를) 생성하는 방법을 알아봅니다.
+생성 방법을 알아봅니다. [!UICONTROL descriptive analysis report] 워크플로우.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 

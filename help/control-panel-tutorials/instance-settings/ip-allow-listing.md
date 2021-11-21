@@ -1,9 +1,9 @@
 ---
 title: 허용 목록에 IP 주소 추가
-seo-title: 허용 목록에 IP 주소 추가
+seo-title: Adding IP addresses to allow lists
 description: Campaign Classic 인스턴스의 허용 목록에 IP 범위를 추가하는 방법과 컨트롤 패널을 사용하여 허용 목록에서 IP 범위를 제거하는 방법을 알아봅니다.
-seo-description: 아래 비디오에서는 IP 주소 범위를 허용 목록에 추가하여 인스턴스에 새 연결을 설정하는 방법을 설명합니다.
-feature: Campaign 컨트롤 패널
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -15,8 +15,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 70%
+source-wordcount: '194'
+ht-degree: 69%
 
 ---
 
@@ -41,4 +41,4 @@ Campaign Classic 인스턴스의 허용 목록에 IP 범위를 추가하는 방�
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-IP 허용 목록에 대한 자세한 내용은 [세부 제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)를 참조하십시오.
+허용 목록에 IP를 추가하는 방법에 대한 자세한 내용은 [세부 제품 설명서](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=ko)를 참조하십시오.

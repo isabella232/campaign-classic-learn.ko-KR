@@ -1,7 +1,7 @@
 ---
 title: 캠페인에서 이메일 만들기
 description: 캠페인에서 직접 이메일 전송을 생성하는 방법을 알아봅니다.
-feature: 이메일
+feature: Email
 kt: 2172
 thumbnail: 25604.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 source-git-commit: e7fab13d8fe549c48b89027d50a563065e2c022e
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 48%
+source-wordcount: '51'
+ht-degree: 47%
 
 ---
 
