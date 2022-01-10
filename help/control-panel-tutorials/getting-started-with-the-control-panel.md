@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
+source-git-commit: d3c8af1a3b6534f93daaa1c0a8223727679cd734
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 74%
+source-wordcount: '266'
+ht-degree: 71%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 74%
 >
 >Campaign 컨트롤 패널은 관리자 사용자만 액세스할 수 있습니다. 사용 권한에 대해 자세히 알아보기 [이 섹션](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=ko#discover-control-panel).
 >
->Campaign Classic v7의 경우 인스턴스는 Amazon Web Services(AWS)에서 호스팅하고 최신 버전으로 업그레이드해야 합니다 [캠페인 안정적인 빌드](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=ko#rn-statuses) (또는 빌드 9032 이상) [이 섹션](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=ko#getting-your-campaign-version)에서 사용 중인 버전을 확인하는 방법을 알아봅니다. 인스턴스가 AWS에서 호스팅되는지 확인하려면 [이 페이지](faq.md#hosted-aws)에 설명된 단계를 수행합니다.
+>Campaign Classic v7의 경우 인스턴스는 Amazon Web Services(AWS)에서 호스팅하고 최신 버전으로 업그레이드해야 합니다 [캠페인 안정적인 빌드](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=ko#rn-statuses) (또는 빌드 9032 이상) [이 섹션](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=ko#getting-your-campaign-version)에서 사용 중인 버전을 확인하는 방법을 알아봅니다. 인스턴스가 AWS에서 호스팅되는지 확인하려면 [이 페이지](https://experienceleague.corp.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws)에 설명된 단계를 수행합니다.
 
 다음 [!UICONTROL Control Panel] Adobe Campaign 관리자는 을(를) 통해 주요 자산을 모니터링하고 관리 등의 관리 작업을 수행할 수 있습니다 [!DNL SFTP] 인스턴스별 저장, 관리 [!DNL GPG] 키 또는 [!UICONTROL subdomains] 및 [!UICONTROL certificates].
 
