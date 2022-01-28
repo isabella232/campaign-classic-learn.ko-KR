@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 38%
+source-wordcount: '70'
+ht-degree: 45%
 
 ---
 
@@ -26,7 +26,3 @@ ht-degree: 38%
 **다음 단계**
 
 2단계: [Android 서비스 구성하기 및 Campaign에서 Android 모바일 애플리케이션 만들기](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
-
-## 추가 리소스
-
-* [내장 스키마를 확장하여 구성 조정](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#extend-subscription-schema)

@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic에서 유형화 규칙을 사용하여 피로 관리를 설정하는 방법
 description: 유형화 규칙을 적용하여 피로도 관리를 구현하는 방법을 알아봅니다.
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 58%
+source-wordcount: '143'
+ht-degree: 48%
 
 ---
 
@@ -26,7 +26,4 @@ ht-degree: 58%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## 추가 리소스
-
-* [캠페인 유형화 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko)
-* [압력 규칙으로 마케팅 피로도 관리](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=ko)
+자세한 내용은 제품 설명서 를 참조하십시오 [캠페인 유형화](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko).

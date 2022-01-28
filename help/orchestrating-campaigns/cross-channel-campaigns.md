@@ -1,16 +1,16 @@
 ---
 title: 크로스채널 캠페인 만들기
 description: 첫 번째 게재에 대한 고객의 상호 작용을 기반으로 이메일 및 DM 게재를 사용한 크로스 채널 캠페인을 만드는 방법을 알아봅니다.
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: ac74fffaaf15bced07212d0df4b631944f15f742
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 첫 번째 게재에 대한 고객의 상호 작용을 기반으로 이메일 및 DM 게재를 사용한 크로스 채널 캠페인을 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
-
-## 추가 리소스
-
-* [멀티채널 및 크로스채널 캠페인 소개](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

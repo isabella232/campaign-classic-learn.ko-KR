@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 73%
+source-wordcount: '84'
+ht-degree: 91%
 
 ---
 
@@ -28,16 +28,3 @@ ht-degree: 73%
 * [쿼리 결과를 결합하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [쿼리 결과를 제외하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [목록 업데이트 활동을 사용하여 워크플로우를 통해 목록 만들기](/help/automating-with-workflows/using-the-update-list-activity.md)
-
-## 추가 리소스
-
-설명서:
-
-* [워크플로우 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
-* [타겟팅 활동 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
-
-자습서:
-
-* [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
-* [프로필 가져오기](/help/data-management/importing-profiles.md)
-* [워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html)

@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 89%
+source-wordcount: '191'
+ht-degree: 94%
 
 ---
 
@@ -58,8 +58,3 @@ SSL 인증서를 얻게 되면 보안을 설정할 하위 도메인에 대해 �
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL 인증서 설치(01:25)*
-
-## 추가 리소스
-
-* [전체 하위 도메인 위임(비디오)](./subdomain-delegation.md)
-* [하위 도메인의 SSL 인증서 갱신(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

@@ -1,7 +1,7 @@
 ---
 title: 반복 및 연속 이메일 캠페인을 설정하는 방법
 description: 반복 및 연속 게재를 설정하는 방법을 알아보고 두 접근 방식 간의 차이점을 이해합니다.
-feature: Workflows
+feature: Workflows, Campaigns
 kt: 1560
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 47%
+source-wordcount: '245'
+ht-degree: 51%
 
 ---
 
@@ -45,7 +45,3 @@ ht-degree: 47%
 이 비디오에서는 증분 쿼리를 사용하여 연속 게재를 구성하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
-
-## 추가 리소스
-
-[타겟팅 워크플로우에서 반복 게재 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)

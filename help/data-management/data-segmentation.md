@@ -9,10 +9,10 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 6330e92e4e960d14ced70a04bc7330c56e6ba53a
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 5%
+source-wordcount: '276'
+ht-degree: 0%
 
 ---
 
@@ -40,7 +40,3 @@ Adobe Campaign의 통합 고객 프로필을 통해 마케터는 해당 데이�
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
-## 추가 리소스 {#additional-resources}
-
-* [데이터 타겟팅(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/targeting-data.html)
-* [워크플로우 모범 사례](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ko)

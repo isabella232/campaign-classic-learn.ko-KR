@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '78'
 ht-degree: 69%
 
 ---
@@ -23,15 +23,3 @@ Adobe Campaign Classic의 목록 개념을 파악하고 워크플로우의 업�
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
-## 추가 리소스
-
-설명서:
-
-* [워크플로우 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ko)
-* [목록 업데이트](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
-
-자습서:
-
-* [워크플로우에서 프로필 타겟팅](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [쿼리 결과를 결합하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [쿼리 결과를 제외하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)

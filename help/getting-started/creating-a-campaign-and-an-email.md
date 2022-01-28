@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
-source-git-commit: e7fab13d8fe549c48b89027d50a563065e2c022e
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 47%
+source-wordcount: '34'
+ht-degree: 64%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 47%
 캠페인에서 직접 이메일 전송을 생성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
-
-## 추가 리소스
-
-* [사용 사례: 이메일 게재 만들기(설명서)](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)

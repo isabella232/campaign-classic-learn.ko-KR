@@ -1,15 +1,15 @@
 ---
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일을 개인화하는 방법
 description: 이 자습서에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법에 대해 보여줍니다.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 70%
+source-wordcount: '257'
+ht-degree: 67%
 
 ---
 
@@ -43,6 +43,4 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하고 수
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## 추가 리소스
-
-* [개인화 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+개인화에 대해 자세히 알아보려면 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

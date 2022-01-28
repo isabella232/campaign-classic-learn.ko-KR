@@ -5,10 +5,11 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -33,14 +34,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[증명 자료를 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *증명 자료를 보내고 확인하는 방법을 살펴보십시오.*
-
-* **[게재 가능성을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *게재 가능성 모범 사례를 적용하는 방법을 알아봅니다.*
-
-* **[이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *이메일 게재 만들기 프로세스를 파악하고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 살펴봅니다.*
 
 
 ## 직원 추천

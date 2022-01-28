@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 90%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,3 @@ Google 등의 일부 서비스에서는 이메일이 스팸 메일함이 아닌 
 아래 비디오에서는 [!UICONTROL Campaign Control Panel]을(를) 사용하여 [!DNL GMAIL] 주소로 이메일을 보내는 데 사용되는 모든 하위 도메인에 [!UICONTROL Google TXT] 사이트 확인 레코드를 추가하는 방법에 대해 설명합니다 .
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## 추가 리소스
-
-* [TXT 레코드 관리(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
