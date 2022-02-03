@@ -11,9 +11,9 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ AMP for Email은 개발자가 동적인 대화형 이메일을 만들 수 있는
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-를 사용할 수 있습니다 [AMP 편집기](https://playground.amp.dev/) 고유한 AMP 코드를 만들려면
+[AMP 편집기](https://playground.amp.dev/)를 사용하면 고유한 AMP 코드를 만들 수 있습니다. 
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ko#about-amp-for-email) 추가 정보.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=ko#about-amp-for-email)를 참조하십시오.
