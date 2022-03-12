@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
+* **[Adobe Target과 통합](/help/integrations/target-integration.md)**
+
+   *Adobe Target에서 제공하는 동적 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
+
 * **[크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *크로스채널 캠페인을 만들고 실행하는 방법을 알아봅니다.*
@@ -30,11 +34,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[컨트롤 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *컨트롤 그룹의 개념을 파악하고 게재를 위한 컨트롤 그룹 사용 방법을 알아봅니다.*
-
-* **[증명 자료를 보내고 확인](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *증명 자료를 보내고 확인하는 방법을 살펴보십시오.*
-
 
 ## 직원 추천
 

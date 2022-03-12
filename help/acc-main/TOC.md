@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
-workflow-type: ht
-source-wordcount: '369'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '368'
+ht-degree: 98%
 
 ---
 
@@ -84,7 +84,8 @@ ht-degree: 100%
    + [워크플로우 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/monitoring-campaign-classic/audit-trail.md)
 + 통합 {#integrating}
-   + [Dynamics 365를 Adobe Campaign Classic과 통합하는 방법](/help/integrations/dynamics365-integration.md)
+   + [Adobe Target과 통합](/help/integrations/target-integration.md)
+   + [Dynamics 365와 통합](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
