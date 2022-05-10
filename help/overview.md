@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[Adobe Target과 통합](/help/integrations/target-integration.md)**
 
-   *Adobe Target에서 제공하는 동적 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
+   *Adobe Target에서 제공하는 다이내믹 콘텐츠를 사용하여 게재를 개인화하는 방법을 알아봅니다.*
 
 * **[크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
