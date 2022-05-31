@@ -4,17 +4,17 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '368'
-ht-degree: 100%
+source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Adobe Campaign Classic 튜토리얼 {#tutorials}
 
-+ [개요](/help/overview.md)
++ [Adobe Campaign Classic V7](/help/overview.md)
 + 시작 {#getting-started}
    + [Adobe Campaign Classic 소개](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign 클라이언트 설치 및 설정](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
