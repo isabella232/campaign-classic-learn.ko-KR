@@ -11,18 +11,14 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 80d6c06de5f14996daaedeb07b050db81908c370
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 68%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 전체 하위 도메인 위임
-
->[!IMPORTANT]
->
-> 에서 하위 도메인 위임 [!UICONTROL Control Panel] 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다.
 
 Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 
