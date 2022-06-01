@@ -10,14 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: e9dbb169f14e6a1b8a0a51c659c2ba6b12e8e7e7
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
-# CNAME(베타)을 사용하여 하위 도메인 위임
+# CNAME을 사용하여 하위 도메인 위임
 
 >[!IMPORTANT]
 >
