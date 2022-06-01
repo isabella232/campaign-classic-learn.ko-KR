@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 100%
    + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 하위 도메인 및 인증서 {#subdomains-and-certificates}
-   + [전체 하위 도메인 위임(베타)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [CNAME(베타)을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [전체 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [CNAME을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 인증서 추가](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 기록 관리](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 인스턴스 설정 {#instance-settings}
