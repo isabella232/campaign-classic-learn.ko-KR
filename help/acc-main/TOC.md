@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -43,8 +43,8 @@ ht-degree: 0%
       + [AMP로 대화형 이메일 콘텐츠 정의하기](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [이메일 게재 문제 해결](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [게재 가능성을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS 채널 {#sms-channel}
+      + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [SMS 게재 만들기](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 푸시 채널 {#push-channel}
       + [모바일 앱 채널 설치](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,3 +91,6 @@ ht-degree: 0%
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.htmlko?lang=)
++ 전략 및 사고 리더십{#strategy}
+   + [가입자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
