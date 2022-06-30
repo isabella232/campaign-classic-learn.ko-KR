@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 83%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
+* **[워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+
+   *워크플로우의 임시 저장소 사용을 모니터링하는 방법 및 인스턴스의 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성하는 위치를 알아봅니다.*
+
+* **[모니터 처리량 및 지연](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
+
 * **[SMS 소개](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=ko)**
 
    *SMS 작동 방식과 Adobe Campaign에서 SMS를 보내는 방법을 알아봅니다.*
 
 * **[표준 SMPP 공급자에 대한 SMS 계정 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=ko)**
 
-   *SMS 커넥터를 SMPP 공급자에게 적용하는 방법을 알아봅니다. SMS 설정을 미세 조정하여 연결 제한을 처리하고, 최대 처리량, 전송 창 및 TLS를 사용한 암호화를 설정합니다.*
-
-* **[SMPP 공급자에 SMS 커넥터 조정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=ko)**
-
-   *SMS 설정을 미세 조정하여 연결 제한을 처리하고, 최대 처리량, 전송 창, 암호화를 TLS로 설정하는 방법을 알아봅니다.*
-
-* **[이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 살펴볼 수 있습니다](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)**
-
-   *이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 학습하는 방법을 알아봅니다. 구독자 참여를 향상시키고 이메일 캠페인의 전반적인 성공을 파악하는 전략을 살펴봅니다.*
+   *SMS 커넥터를 SMPP 공급자에게 적용하는 방법을 알아봅니다. SMS 설정을 미세 조정하여 연결 제한을 처리하고, 최대 처리량, 전송 창 및 TLS로 암호화를 설정합니다.*
 
 ## 직원 추천
 
