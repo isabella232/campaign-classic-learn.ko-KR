@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
+source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 81%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 > 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
 
 ## 새로운 기능
+
+* **[하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+
+   *Adobe Campaign 하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널을 활성화하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.*
 
 * **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
