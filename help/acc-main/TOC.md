@@ -7,7 +7,7 @@ breadcrumb-title: 튜토리얼
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 97%
    + [Adobe Target과 통합](/help/integrations/target-integration.md)
    + [Dynamics 365와 통합](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
-   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target=&quot;_blank&quot;}
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.htmlko?lang=)
