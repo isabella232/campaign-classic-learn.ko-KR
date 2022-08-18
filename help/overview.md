@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '384'
+ht-degree: 100%
 
 ---
 
@@ -23,15 +23,15 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+* **[하이브리드 호스팅 모델에 컨트롤 패널 사용](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html?lang=ko)**
 
-   *Adobe Campaign 하이브리드 호스팅 모델을 위한 Campaign 컨트롤 패널을 활성화하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.*
+   *컨트롤 패널을 Adobe Campaign 하이브리드 호스팅 모델에 사용할 수 있도록 설정하고 컨트롤 패널에 액세스하며 주요 기능을 잠금 해제하는 방법을 알아봅니다.*
 
-* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=ko){target=&quot;_blank&quot;}**
 
-   *워크플로우의 임시 저장소 사용을 모니터링하는 방법 및 인스턴스의 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성하는 위치를 알아봅니다.*
+   *인스턴스의 데이터베이스나 워크플로우 문제를 방지하기 위해 워크플로우의 임시 스토리지 사용을 모니터링하는 방법 및 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
 
-* **[Campaign 컨트롤 패널 - 모니터 처리량 및 지연](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target=&quot;_blank&quot;}**
 
    *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
 
