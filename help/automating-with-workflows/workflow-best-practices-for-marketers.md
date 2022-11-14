@@ -3,20 +3,20 @@ title: 충성도One의 마케터를 위한 상위 5개의 워크플로우 우수
 description: 충성도 One에서 마케팅 연합 Director인 Adam Wilson의 마케터를 위해 5가지 필수 워크플로우 모범 사례를 학습 및 적용합니다.
 feature: Workflows
 kt: 11423
-thumbnail: 3410837
+thumbnail: 3410837.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
-source-git-commit: fb7715c77031570e421b8830a3aac6a7c307b341
+exl-id: 451b1e5d-6c03-454f-904a-65e3e0bce26f
+source-git-commit: 7bf9cad5909046d8fa77a8cf08f5d1e3acd6e428
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # 충성도One의 마케터를 위한 상위 5개의 워크플로우 우수 사례
 
