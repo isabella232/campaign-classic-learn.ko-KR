@@ -7,7 +7,7 @@ breadcrumb-title: 튜토리얼
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [데이터 보강 활동 구성](/help/automating-with-workflows/enrichment-activity.md)
    + [데이터 세그멘테이션](/help/data-management/data-segmentation.md)
    + [승인 관리](/help/automating-with-workflows/managing-approvals.md)
-   + [동료로부터 학습 - 워크플로우 우수 사례](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [동료로부터 학습 - 워크플로우 모범 사례](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 콘텐츠 디자인{#designing-content}
    + [랜딩 페이지 구성](/help/designing-content/configure-landingpages.md)
 + 모니터링 {#monitoring}
