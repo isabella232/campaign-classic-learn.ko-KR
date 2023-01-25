@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
+source-git-commit: 3e39c4972106f6343bec6f1417c3d2ae5371833f
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 99%
+source-wordcount: '419'
+ht-degree: 97%
 
 ---
 
@@ -87,11 +87,12 @@ ht-degree: 99%
    + [Adobe Target과 통합](/help/integrations/target-integration.md)
    + [Dynamics 365와 통합](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
-   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target=&quot;_blank&quot;}
+   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
       + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
+   + [마케터를 위한 Adobe Campaign 성공에 대한 10가지 우수 사례](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [구독자의 재참여를 위한 이메일 ROI 및 모범 사례 극대화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)
    + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
