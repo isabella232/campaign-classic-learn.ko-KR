@@ -11,9 +11,9 @@ role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: 337ba3c5e591582ddf955ac3cb993b551872e4a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하여 수
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-개인화에 대해 자세히 알아보려면 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).
+개인화에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ko)를 참조하세요.
