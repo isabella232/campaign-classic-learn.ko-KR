@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
+source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 97%
+source-wordcount: '441'
+ht-degree: 96%
 
 ---
 
@@ -81,8 +81,9 @@ ht-degree: 97%
    + [데이터 세분화](/help/data-management/data-segmentation.md)
    + [승인 관리](/help/automating-with-workflows/managing-approvals.md)
    + [동료로부터 학습 - 워크플로우 모범 사례](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ 콘텐츠 디자인{#designing-content}
++ 랜딩 페이지 구성 {#landing-pages}
    + [랜딩 페이지 구성](/help/designing-content/configure-landingpages.md)
+   + [환경 설정 센터 만들기](/help/designing-content/create-a-preference-center.md)
 + 모니터링 {#monitoring}
    + [워크플로우 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/monitoring-campaign-classic/audit-trail.md)
