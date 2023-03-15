@@ -1,6 +1,6 @@
 ---
 title: 캠페인에서 이메일 만들기
-description: 캠페인에서 직접 이메일 전송을 생성하는 방법을 알아봅니다.
+description: 캠페인에서 직접 이메일 게재를 생성하는 방법을 알아봅니다.
 feature: Email
 kt: 2172
 thumbnail: 25604.jpg
@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # 캠페인에서 이메일 만들기
 
-캠페인에서 직접 이메일 전송을 생성하는 방법을 알아봅니다.
+캠페인에서 직접 이메일 게재를 생성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
