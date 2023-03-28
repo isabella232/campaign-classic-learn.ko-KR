@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
       + [이메일의 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [증명 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [통제 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
-      + [A/B 테스트를 위한 게재 구성](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [게재를 A/B 테스트용으로 구성](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [다이내믹 콘텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [개인화 필드를 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -88,7 +88,7 @@ ht-degree: 96%
    + [워크플로우 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/monitoring-campaign-classic/audit-trail.md)
 + 데이터 관리 {#data-management}
-   + [쿼리 데이터](/help/data-management/query-data.md)
+   + [데이터 쿼리](/help/data-management/query-data.md)
 + 통합 {#integrating}
    + [Adobe Target과 통합](/help/integrations/target-integration.md)
    + [Dynamics 365와 통합](/help/integrations/dynamics365-integration.md)
