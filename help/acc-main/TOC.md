@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,6 +59,8 @@ ht-degree: 100%
    + 피로도 관리{#fatigue-management}
       + [분류 유형 규칙 사용](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [미리 정의한 필터 사용](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + 메시지 모니터링 {#monitoring-messages}
+      + [격리 관리 이해](/help/sending-messages/quarantine-management.md)
    + [구독 서비스 구성 및 관리](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 캠페인 오케스트레이션 {#orchestration}
    + [캠페인 실행](/help/orchestrating-campaigns/executing-a-campaign.md)
