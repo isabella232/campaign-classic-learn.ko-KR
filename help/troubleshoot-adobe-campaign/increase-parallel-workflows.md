@@ -7,7 +7,7 @@ level: Experienced
 type: Troubleshooting
 kt: 8426
 exl-id: 9a31159a-ffc0-41d2-8c3b-68a5d6f77fc4
-source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 인스턴스에서 병렬 실행할 수 있는 캠페인 워크플로우의 수를 늘리는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on)

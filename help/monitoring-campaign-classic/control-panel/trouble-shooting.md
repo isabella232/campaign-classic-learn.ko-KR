@@ -1,12 +1,12 @@
 ---
-title: Campaign 컨트롤 패널 문제 해결
+title: 컨트롤 패널 문제 해결
 description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 허용 목록에 추가하다 수 있습니다.
 feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 80%
@@ -40,18 +40,18 @@ ht-degree: 80%
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
 
 *IMS 조직 ID 확인(00:26)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
 
 *[!UICONTROL Control panel]을(를) 사용하기 위해 제품 프로필 관리자에 관리자를 추가하는 방법(01:03)*
 
 ### 유용한 설명서
 
-* [Campaign 컨트롤 패널 살펴보기](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
-* [[!UICONTROL Control Panel]에 대한 권한 관리](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [컨트롤 패널 살펴보기](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
+* [[!UICONTROL Control Panel]에 대한 권한 관리](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 
@@ -63,5 +63,5 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 ### 유용한 설명서 {#helpful-docs}
 
-* [SFTP 서버에 로그인](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [SFTP 서버에 로그인](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ko)
 

@@ -1,6 +1,6 @@
 ---
 title: Audit Trail 사용 방법
-description: 'Audit Trail은 작업의 전체 목록과 Adobe Campaign 내에서 발생하는 이벤트를 실시간으로 캡처합니다. '
+description: Audit Trail은 작업의 전체 목록과 Adobe Campaign 내에서 발생하는 이벤트를 실시간으로 캡처합니다.
 feature: Audit Trail
 kt: 2835
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 아래 비디오에서는 감사 추적 로그에 액세스할 수 있는 위치와 구성할 수 있는 설정에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on)
 
 자세한 내용은 [Audit Trail 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ko)에서 확인할 수 있습니다.

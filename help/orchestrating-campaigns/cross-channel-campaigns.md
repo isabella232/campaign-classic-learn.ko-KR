@@ -8,8 +8,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 첫 번째 게재에 대한 고객의 상호 작용을 기반으로 이메일 및 DM 게재를 사용한 크로스 채널 캠페인을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on)

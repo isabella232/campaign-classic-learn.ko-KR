@@ -10,7 +10,7 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 32%
@@ -21,7 +21,7 @@ ht-degree: 32%
 
 Campaign에서 [!DNL Android] 서비스를 구성하고 [!DNL Android] 모바일 애플리케이션을 만드는 방법을 알아봅니다. 이 단계는 푸시 알림에 대한 대상 모바일 애플리케이션을 정의하는 데 필요합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on)
 
 **이전 단계**
 

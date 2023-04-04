@@ -6,7 +6,7 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 88%
@@ -20,4 +20,4 @@ A [!UICONTROL Delivery-type activity] 게재 작업을 만들 수 있습니다. 
 
 이 비디오에서는 이메일 게재 템플릿을 배포하는 방법을 설명합니다. 이메일 게재와 게재 워크플로우의 차이점을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)

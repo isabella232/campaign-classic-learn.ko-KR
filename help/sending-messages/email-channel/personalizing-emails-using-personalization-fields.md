@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 72%
+ht-degree: 89%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 72%
 
 제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
 
-개인화에 대해 자세히 알아보려면 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).
+개인화에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ko)를 참조하세요.

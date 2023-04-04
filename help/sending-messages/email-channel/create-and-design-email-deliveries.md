@@ -10,8 +10,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 이메일 게재 만들기 프로세스를 배우고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on)
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=ko)를 참조하십시오.

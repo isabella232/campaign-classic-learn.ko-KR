@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 69%
@@ -21,5 +21,5 @@ ht-degree: 69%
 
 Adobe Campaign Classic의 목록 개념을 파악하고 워크플로우의 업데이트 목록 활동을 사용하여 목록을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on)
 

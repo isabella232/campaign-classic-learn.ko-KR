@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic의 데이터 세그멘테이션
-description: 'Integrated Customer Profile, 프로필 만들기 및 업데이트 방법, 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법을 알아봅니다. '
+description: Integrated Customer Profile, 프로필 만들기 및 업데이트 방법, 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법을 알아봅니다.
 feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
@@ -9,7 +9,7 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Adobe Campaign을 사용하면 일반적인 소비자 속성 및 기타 데이�
 
 Adobe Campaign의 통합 고객 프로필을 통해 마케터는 해당 데이터를 대규모로 캡처 및 관리할 수 있습니다. 인구 통계 세부 사항 &quot;zip 코드&quot; &quot;주소&quot; &quot;성별&quot; 등과 같은 프로필 속성, 상호 작용 데이터, &quot;메시지 열기&quot;, &quot;이메일을 클릭&quot;, &quot;웹 사이트 방문&quot;, 변환 데이터 및 심지어 오프라인 데이터까지 모든 것이 포함됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
 ## 고객 프로필 만들기 및 업데이트 {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
 ## 고객 세그멘테이션  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Adobe Campaign의 통합 고객 프로필을 통해 마케터는 해당 데이�
 
 참고: 이 비디오는 Adobe Campaign Classic V6에 기록되었으며 기능은 정확히 동일하지만 워크플로우 아이콘이 변경되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 
