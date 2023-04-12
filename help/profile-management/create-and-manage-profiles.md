@@ -2,7 +2,7 @@
 title: 프로필 만들기 및 관리
 description: 프로필 데이터에 액세스하고, 프로필을 정렬 및 필터링하고, 프로필을 수동으로 만들고 관리하는 방법을 알아봅니다. 개인정보 보호 규정(GDPR) 및 캘리포니아 소비자 개인정보 보호법(CCPA) 준수에 대해 알아봅니다.
 landing-page-description: 프로필의 개념을 이해합니다. 프로필 데이터에 액세스하고, 프로필을 정렬 및 필터링하고, 프로필을 수동으로 만들고 관리하는 방법을 알아봅니다. GDPR 및 CCPA에 대한 자세한 내용을 살펴보십시오.
-short-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
+short-description: 프로필의 개념을 이해합니다. 프로필 데이터에 액세스하고, 프로필을 정렬 및 필터링하고, 프로필을 수동으로 만들고 관리하는 방법을 알아봅니다. GDPR 및 CCPA에 대한 자세한 내용을 살펴보십시오.
 feature: Profiles
 kt: 5081
 thumbnail: 35611.jpg
@@ -14,7 +14,7 @@ level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 100%
 
 ---
