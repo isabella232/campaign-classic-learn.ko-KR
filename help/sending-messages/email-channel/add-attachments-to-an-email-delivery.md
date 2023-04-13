@@ -1,6 +1,6 @@
 ---
-title: 전자 메일 게재에 첨부 파일을 추가합니다.
-description: 전자 메일 게재에 첨부 파일을 추가하는 방법과 다양한 유형의 전자 메일 첨부 파일을 구성하는 방법을 알아봅니다.
+title: 이메일 게재에 첨부 파일을 추가합니다.
+description: 이메일 게재에 첨부 파일을 추가하는 방법과 다양한 유형의 이메일 첨부 파일을 구성하는 방법을 알아봅니다.
 feature: Email, Personalization
 kt: 11920
 doc-type: feature video
@@ -10,15 +10,15 @@ role: User
 level: Beginner
 last-substantial-update: 2023-03-29T00:00:00Z
 source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 전자 메일 게재에 첨부 파일 추가
+# 이메일 게재에 첨부 파일 추가
 
-전자 메일 게재에 첨부 파일을 추가하는 방법과 다양한 유형의 전자 메일 첨부 파일을 구성하는 방법을 알아봅니다.
+이메일 게재에 첨부 파일을 추가하는 방법과 다양한 유형의 이메일 첨부 파일을 구성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on)
