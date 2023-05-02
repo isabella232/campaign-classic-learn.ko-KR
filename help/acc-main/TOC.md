@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 튜토리얼
 user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 고객 경험을 디자인하고 시각적 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공할 수 있습니다.
 breadcrumb-title: 튜토리얼
-source-git-commit: f4005dbd21dbe7c38ab5831a260a87a5bb9ea4ca
+source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 99%
+source-wordcount: '459'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 99%
 + 메시지 보내기{#sending-messages}
    + 이메일 채널{#email-channel}
       + [이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [이메일 게재 콘텐츠 디자인](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [이메일의 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [증명 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [통제 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
