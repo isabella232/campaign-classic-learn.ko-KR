@@ -19,6 +19,6 @@ ht-degree: 32%
 
 # 게재 템플릿 속성 설정 {#setting-the-delivery-template-properties}
 
-다음 비디오에서는 게재 템플릿 속성을 설정하는 방법을 보여 주고 각 속성에 대해 자세히 설명합니다.
+다음 비디오는 게재 템플릿 속성을 설정하는 방법을 보여 주며 각 속성에 대해 자세히 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on)

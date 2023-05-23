@@ -19,6 +19,6 @@ ht-degree: 54%
 
 # 기본 제공 보고서 액세스
 
-Campaign Classic의 기본 제공 보고 및 분석을 이해하고 배달 보고서를 생성하는 방법을 알아봅니다.
+Campaign Classic의 기본 제공 보고 및 분석을 이해하고 게재 보고서를 생성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on)

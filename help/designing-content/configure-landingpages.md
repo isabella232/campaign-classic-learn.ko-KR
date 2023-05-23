@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on)
 
-자세한 내용은 [랜딩 페이지 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+자세한 내용은 의 자세한 설명서를 참조하십시오. [랜딩 페이지 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

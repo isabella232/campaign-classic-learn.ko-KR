@@ -1,5 +1,5 @@
 ---
-title: 멀티채널 캠페인과 크로스채널 캠페인 간의 차이점
+title: 멀티채널 및 크로스채널 캠페인의 차이점
 description: 멀티채널 및 크로스 채널 캠페인의 차이점과 두 캠페인의 사용 사례를 알아봅니다.
 feature: Cross Channel Orchestration
 kt: 7018

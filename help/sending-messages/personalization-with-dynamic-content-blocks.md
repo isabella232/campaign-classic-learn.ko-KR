@@ -1,6 +1,6 @@
 ---
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일을 개인화하는 방법
-description: 이 자습서에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법에 대해 보여줍니다.
+description: 이 튜토리얼에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법을 보여 줍니다.
 feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
@@ -23,11 +23,11 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하고 수
 3 - 동적 개인화 필드 삽입\
 4 - 조건부 콘텐츠 만들기
 
-이 자습서에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법에 대해 보여줍니다.
+이 튜토리얼에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법을 보여 줍니다.
 
 ## 개인화 블록을 게재에 만들기 및 추가
 
-개인화 블록은 동적이고 게재에 추가할 수 있는 특정 렌더링 코드를 포함합니다. 예를 들어 이미지, 이메일 머리글, 이메일 바닥글, 미러 페이지 링크, 구독 취소 링크 등을 추가할 수 있습니다.
+개인화 블록은 동적이며 게재에 추가할 수 있는 특정 렌더링 코드를 포함합니다. 예를 들어 이미지, 이메일 머리글, 이메일 바닥글, 미러 페이지 링크, 구독 취소 링크 등을 추가할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
@@ -43,4 +43,4 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하고 수
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-개인화에 대해 자세히 알아보려면 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+개인화에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

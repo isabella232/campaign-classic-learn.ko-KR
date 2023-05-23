@@ -1,6 +1,6 @@
 ---
 title: 컨트롤 패널 문제 해결
-description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 허용 목록에 추가하다 수 있습니다.
+description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 IP 주소 허용 목록을 통해 SFTP 스토리지를 모니터링하고 관리할 수 있습니다.
 feature: Control Panel
 kt: 2938
 doc-type: article
@@ -34,7 +34,7 @@ ht-degree: 80%
 ### 증상: 인스턴스가 [!UICONTROL Control Panel]에 나열되지 않음
 
 **원인:**
-사용자는 &quot;사용자&quot; 제품 프로필로 추가해야 합니다 _Campaign-xxx-Administrators/Admin_ 누락된 인스턴스에 대해
+대부분의 경우 사용자를 &quot;사용자&quot; 제품 프로필로 추가해야 합니다. _Campaign-xxx-Administrators/Admin_ 누락된 인스턴스에 대해
 
 **해결 방법:** 관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 _Campaign-xxx-Admins_&#x200B;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
 

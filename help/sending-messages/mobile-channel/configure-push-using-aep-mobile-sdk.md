@@ -18,8 +18,8 @@ ht-degree: 54%
 
 # Experience Platform Mobile SDK를 사용하여 푸시 채널 구성
 
-이 비디오에서는 Adobe Experience Platform Mobile SDK를 구성 및 설치하는 방법을 설명합니다.
+이 비디오에서는 Adobe Experience Platform Mobile SDK를 구성하고 설치하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
-Mobile SDK에서 Campaign Classic 확장을 구성하는 방법에 대해 자세히 알아보려면 [제품 설명서](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).
+Mobile SDK에서 Campaign Classic 확장을 구성하는 방법에 대한 자세한 내용은 [제품 설명서](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

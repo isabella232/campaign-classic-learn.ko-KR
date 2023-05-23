@@ -1,6 +1,6 @@
 ---
-title: Android 서비스 구성하기 및 Campaign에서 Android 모바일 애플리케이션 만들기
-description: Campaign에서 Android Services를 구성하고 Android 모바일 애플리케이션을 만드는 방법을 알아봅니다. 푸시 알림의 대상으로 Neotrip 앱을 정의하는 데 필요합니다.
+title: Android 서비스 구성 및 Campaign에서 Android 모바일 애플리케이션 만들기
+description: Campaign에서 Android 서비스를 구성하고 Android 모바일 애플리케이션을 만드는 방법을 알아봅니다. Neotrip 앱을 푸시 알림의 대상으로 정의하는 데 필요합니다.
 feature: Push
 kt: 6554
 thumbnail: 327788.jpg
@@ -17,7 +17,7 @@ ht-degree: 32%
 
 ---
 
-# 구성 [!DNL Android] 서비스 및 만들기 [!DNL Android] Campaign의 모바일 애플리케이션
+# 구성 [!DNL Android] 서비스 및 만들기 [!DNL Android] campaign의 모바일 애플리케이션
 
 Campaign에서 [!DNL Android] 서비스를 구성하고 [!DNL Android] 모바일 애플리케이션을 만드는 방법을 알아봅니다. 이 단계는 푸시 알림에 대한 대상 모바일 애플리케이션을 정의하는 데 필요합니다.
 

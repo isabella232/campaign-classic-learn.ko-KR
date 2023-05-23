@@ -1,6 +1,6 @@
 ---
 title: 프로필을 가져오는 방법
-description: Adobe Campaign Classic에서 프로필을 가져오는 방법을 알아봅니다
+description: Adobe Campaign Classic에서 프로필을 가져오는 방법 알아보기
 feature: Profiles
 kt: 2176
 doc-type: feature video

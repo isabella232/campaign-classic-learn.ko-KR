@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic 사용자 인터페이스 살펴보기
-description: 기본 Adobe Campaign Classic 사용자 인터페이스를 파악하고 기본 기능을 탐색하는 방법을 보여 줍니다.
+description: 기본 Adobe Campaign Classic 사용자 인터페이스를 이해하고 기본 기능을 탐색하는 방법을 보여 줍니다.
 feature: Overview
 kt: 5009
 thumbnail: 35130.jpg

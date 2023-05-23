@@ -19,6 +19,6 @@ ht-degree: 82%
 
 # 쿼리 결과를 제외하여 대상 세분화하기
 
-을(를) 적용하여 대상을 세분화하는 방법을 알아봅니다 **[!UICONTROL standard exclusion]** 워크플로우 로 이동합니다. 또한 사전 정의된 필터를 만드는 방법과 워크플로우 문제 해결 방법도 알아봅니다.
+다음을 적용하여 대상을 세분화하는 방법을 알아봅니다. **[!UICONTROL standard exclusion]** 워크플로우에 매핑할 수도 있습니다. 또한 사전 정의된 필터를 만드는 방법과 워크플로우 문제 해결 방법도 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)

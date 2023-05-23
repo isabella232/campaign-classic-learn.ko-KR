@@ -19,11 +19,11 @@ ht-degree: 3%
 
 # 푸시 알림 구성 및 전송
 
-구성 및 보내기 방법을 알아봅니다. [!DNL push] 사용자에게 알림 [!DNL Android] 응용 프로그램.
+을(를) 구성하고 보내는 방법 알아보기 [!DNL push] 의 사용자에게 알림 [!DNL Android] 응용 프로그램.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 
 **이전 단계**
 
-2단계: [Android 서비스 구성하기 및 Campaign에서 Android 모바일 애플리케이션 만들기](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+2단계: [Android 서비스 구성 및 Campaign에서 Android 모바일 애플리케이션 만들기](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 

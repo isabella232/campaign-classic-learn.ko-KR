@@ -19,6 +19,6 @@ ht-degree: 57%
 
 # DM 게재 만들기
 
-방법 이해 [!UICONTROL direct mail] 작업 [!UICONTROL Adobe Campaign] 을 작성하고 서식을 지정하고 실행하는 방법을 알아봅니다. [!UICONTROL direct mail ]게재.
+방법 이해 [!UICONTROL direct mail] 의 작품 [!UICONTROL Adobe Campaign] 및 를 만들고 형식을 지정하며 실행하는 방법에 대해 알아봅니다. [!UICONTROL direct mail ]게재.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on)

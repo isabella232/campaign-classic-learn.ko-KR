@@ -1,6 +1,6 @@
 ---
 title: 이메일에서 시드 및 증명을 관리하는 방법
-description: 기존 이메일에 시드 및 증명을 추가하는 방법과 보내는 방법을 알아봅니다.
+description: 기존 이메일에 시드 및 증명을 추가하는 방법과 이를 보내는 방법을 알아봅니다.
 feature: Email, Seed Address, Proofs
 kt: 2178
 thumbnail: 25606.jpg
@@ -19,6 +19,6 @@ ht-degree: 36%
 
 # 이메일에서 시드 및 증명을 관리하는 방법
 
-기존 이메일에 시드 및 증명을 추가하는 방법과 보내는 방법을 알아봅니다.
+기존 이메일에 시드 및 증명을 추가하는 방법과 이를 보내는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on)

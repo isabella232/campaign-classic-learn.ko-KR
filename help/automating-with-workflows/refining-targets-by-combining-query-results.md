@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # 쿼리 결과를 결합하여 대상 세분화하기
 
-을(를) 사용하여 워크플로우에 쿼리 결과를 결합하여 대상을 세분화하는 방법을 알아봅니다. **[!UICONTROL intersection]** 또는 **[!UICONTROL union]** 활동.
+다음을 사용하여 워크플로우에 쿼리 결과를 결합하여 대상을 세분화하는 방법을 알아봅니다. **[!UICONTROL intersection]** 또는 **[!UICONTROL union]** 활동.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

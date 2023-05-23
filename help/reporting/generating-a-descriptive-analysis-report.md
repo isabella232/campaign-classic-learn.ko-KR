@@ -19,6 +19,6 @@ ht-degree: 75%
 
 # 서술형 분석 보고서 생성
 
-생성 방법을 알아봅니다. [!UICONTROL descriptive analysis report] 워크플로우.
+을(를) 생성하는 방법 알아보기 [!UICONTROL descriptive analysis report] 워크플로우에서.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on)

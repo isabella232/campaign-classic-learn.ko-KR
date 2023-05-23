@@ -18,7 +18,7 @@ ht-degree: 56%
 
 # Snowflake에서 빅데이터 관리
 
-이 튜토리얼에서는 다음을 활용하는 방법을 설명합니다 [!DNL Snowflake] Adobe Campaign Classic의 커넥터.
+이 튜토리얼에서는 [!DNL Snowflake] Adobe Campaign Classic의 커넥터입니다.
 다음 방법을 배울 수 있습니다
 
 * Snowflake에 연결
