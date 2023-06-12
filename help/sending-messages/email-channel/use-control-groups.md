@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
+source-git-commit: 0b52f82b3047b47ef46342811fa0d42cc574b7d8
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 48%
+source-wordcount: '109'
+ht-degree: 38%
 
 ---
 
@@ -23,8 +23,7 @@ ht-degree: 48%
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
-자세한 내용은 제품 설명서 를 참조하십시오.
-
-* [컨트롤 그룹을 정의하는 방법](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
-* [게재 대상 모집단을 정의하는 방법](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
-
+>[!IMPORTANT]
+>타겟팅 워크플로우에 여러 게재가 있는 경우 게재 수준 및 캠페인 설정에서 컨트롤 그룹 설정을 활성화해야 합니다.
+>에 대한 자세한 내용은 제품 설명서 를 참조하십시오. [컨트롤 그룹을 정의하는 방법](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+및 [게재 대상 모집단](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
