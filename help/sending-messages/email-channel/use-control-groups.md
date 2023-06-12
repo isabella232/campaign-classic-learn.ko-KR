@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: c4f3fdfc895e8906c0f7e4f29fc608b8a2d55494
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '86'
+ht-degree: 48%
 
 ---
 
@@ -22,3 +22,9 @@ ht-degree: 100%
 컨트롤 그룹의 개념을 파악하고 게재에 컨트롤 그룹을 사용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
+
+자세한 내용은 제품 설명서 를 참조하십시오.
+
+* [컨트롤 그룹을 정의하는 방법](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group)
+* [게재 대상 모집단을 정의하는 방법](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en)
+
