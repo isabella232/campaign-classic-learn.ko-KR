@@ -1,7 +1,7 @@
 ---
 title: 개인화 필드를 사용하여 이메일 개인화
 description: 제목 줄과 이메일 전달 컨텐츠에 개인화 필드를 추가하는 방법을 알아봅니다.
-feature: Dynamic Content, Personalization
+feature: Personalization
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 89%

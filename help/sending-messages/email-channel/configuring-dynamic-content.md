@@ -1,7 +1,7 @@
 ---
 title: 다이내믹 콘텐츠 구성
 description: 다양한 유형의 다이내믹 콘텐츠를 파악하고 개인화 블록 및 조건문을 만들어 게재에 적용하는 방법을 알아봅니다.
-feature: Dynamic Content, Personalization, Email
+feature: Personalization, Email
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 72%
