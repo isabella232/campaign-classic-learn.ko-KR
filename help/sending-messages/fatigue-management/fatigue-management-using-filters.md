@@ -2,14 +2,14 @@
 title: 압력 규칙으로 마케팅 피로도 관리
 description: 필터를 사용하여 Adobe Campaign Classic에서 피로도 관리를 구현하는 방법을 알아봅니다.
 feature: Fatigue Management, Typology Rules
-kt: 2148
+jira: KT-2148
 doc-type: feature video
 activity: use
 team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 34%

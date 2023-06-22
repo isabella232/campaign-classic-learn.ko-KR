@@ -2,14 +2,14 @@
 title: Adobe Campaign Classic에서 유형화 규칙을 사용하여 피로도 관리를 설정하는 방법
 description: 유형화 규칙을 적용하여 피로도 관리를 구현하는 방법을 알아봅니다.
 feature: Fatigue Management, Typology Rules
-kt: 1564
+jira: KT-1564
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 48%

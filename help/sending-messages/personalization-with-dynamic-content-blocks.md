@@ -2,11 +2,11 @@
 title: 다이내믹 콘텐츠 블록을 사용하여 이메일을 개인화하는 방법
 description: 이 튜토리얼에서는 게재 콘텐츠를 개인화하고, 게재 템플릿에서 JavaScript 코드를 사용하고, 서로 다른 게재 템플릿에서 콘텐츠 블록을 표준화하고 공유하는 방법을 보여 줍니다.
 feature: Personalization
-kt: 1559
+jira: KT-1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%

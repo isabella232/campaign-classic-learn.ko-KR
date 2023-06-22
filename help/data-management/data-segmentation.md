@@ -2,14 +2,14 @@
 title: Adobe Campaign Classic의 데이터 세분화
 description: 통합 고객 프로필, 프로필을 만들고 업데이트하는 방법 및 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법을 이해합니다.
 feature: Profiles, Data Management Activity
-kt: 1656
+jira: KT-1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%

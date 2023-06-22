@@ -2,14 +2,14 @@
 title: 데이터 보강 활동을 구성하는 방법
 description: 게재 로그 정보를 기반으로 데이터 보강 활동을 구성하는 방법을 알아봅니다.
 feature: Workflows, Enrichment Activity
-kt: 1561
+jira: KT-1561
 doc-type: feature video
 activity: use
 team: TM
 role: User, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 70%

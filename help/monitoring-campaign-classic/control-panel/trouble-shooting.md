@@ -2,11 +2,11 @@
 title: 컨트롤 패널 문제 해결
 description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 IP 주소 허용 목록을 통해 SFTP 스토리지를 모니터링하고 관리할 수 있습니다.
 feature: Control Panel
-kt: 2938
+jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 80%

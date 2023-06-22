@@ -2,7 +2,7 @@
 title: 앱 구독 스키마를 확장하여 푸시 알림 개인화
 description: Campaign에서 모바일 앱으로부터 받은 개인화 값을 저장할 수 있도록 앱 구독 스키마를 확장하는 방법을 알아보십시오.
 feature: Push, Schema Extension
-kt: 6451
+jira: KT-6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
@@ -10,7 +10,7 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 45%
