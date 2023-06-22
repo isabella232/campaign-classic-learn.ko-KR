@@ -2,7 +2,7 @@
 title: LoyaltyOne의 마케터를 위한 상위 5개의 워크플로우 모범 사례
 description: LoyaltyOne의 마케팅 Associate Director인 Adam Wilson의 마케터를 위해 5가지 필수 워크플로우 모범 사례를 학습하고 적용해 보세요.
 feature: Workflows
-kt: 11423
+jira: KT-11423
 thumbnail: 3410837.jpg
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
 exl-id: 451b1e5d-6c03-454f-904a-65e3e0bce26f
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
