@@ -2,15 +2,15 @@
 title: 워크플로우 히트맵
 description: 인스턴스의 로드를 모니터링하고 그에 따라 워크플로우를 계획하는 방법을 알아봅니다.
 feature: Heatmap
-kt: 2093
+jira: KT-2093
 doc-type: feature video
 activity: understand
 team: PM
 role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
