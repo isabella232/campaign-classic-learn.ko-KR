@@ -2,15 +2,16 @@
 title: 마케터를 위한 Adobe Campaign 성공 모범 사례 10가지
 description: Adobe Campaign 실무자가 디지털 소비자 변화와 보다 우수한 고객 경험 제공을 시작하고 가속화하는 데 도움이 되는 10가지 모범 사례를 알아봅니다.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Adobe Campaign에서는 세분화를 빠르고 쉽게 조율할 수 있습니다
 
 예를 들어 고객이 아침에 전화기로 좋은 세일이 있는지 확인하면 문자로 프로모션을 보내는 방안을 고려해 보세요. 밤에 다음에 유행할 제품을 찾아보는 고객에게는 후속 이메일로 무료 배송 프로모션 코드를 보내는 것도 생각해 보세요. [!DNL Campaign]의 히트 맵 도구를 사용하여 워크플로우와 보내기가 실행되는 시점을 추적하는 것도 중요합니다. 여러 브랜드 간의 커뮤니케이션을 조정하고 촉진하는 일은 어려울 수 있습니다. [이메일의 리듬, 주기, 시점을 계속 지켜보고 파악하는 일](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=ko)은 메시지와 Campaign 인스턴스의 전반적인 안정성과 위력에 매우 중요합니다.
 
-## 4. 적재적소에 개인화 사용하기
+## 4. 필요한 경우 개인화 사용
 
 오늘날 소비자들은 자신이 받는 메시지가 어느 정도 개인화되어 있을 것을 기대합니다. [고객의 80%는 개인화된 경험을 제공하는 브랜드에서 구매할 가능성이 높습니다](https://us.epsilon.com/power-of-me). 제목에 고객의 이름을 넣는 것은 훌륭한 전략입니다. 하지만 개인화를 제대로 활용하면 그보다 훨씬 놀라운 일을 해낼 수 있습니다. 메시지 내용에 고객이 찾아본 제품을 넣거나, 유사한 제품 구매 링크로 연결하거나, 브랜드가 제공하는 일관적 경험과 디자인을 지속적으로 강화할 수도 있습니다. 모든 디테일이 중요하며 고객 충성도와 메시지 오픈율을 높이는 데 도움이 됩니다.
 
