@@ -10,10 +10,10 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '367'
+ht-degree: 99%
 
 ---
 
@@ -41,7 +41,7 @@ Adobe Campaign을 통해 개인화 및 세그먼트화한 [!DNL push] 알림을 
 
    [!DNL Mobile App channel] 패키지는 [!DNL Campaign] 인스턴스에 설치해야 합니다. 다음 비디오에서는 [!DNL Mobile App channel]이 인스턴스에 설치되어 있는지 확인하는 방법과 설치되어 있지 않은 경우 설치하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## 튜토리얼 개요
 

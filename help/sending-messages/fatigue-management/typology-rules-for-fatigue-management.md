@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 48%
+source-wordcount: '145'
+ht-degree: 47%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 48%
 
 이 비디오에서는 유형화 규칙을 적용하여 Adobe Campaign Classic에서 피로도 관리를 구현하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
 
 자세한 내용은 제품 설명서 를 참조하세요. [캠페인 유형화](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko).

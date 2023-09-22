@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ AMP for Email은 개발자가 동적인 대화형 이메일을 만들 수 있는
 
 아래 비디오에서는 Adobe Campaign Classic에서 AMP를 활성화하는 방법을 설명하고 사용법을 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 [AMP 편집기](https://playground.amp.dev/)를 사용하면 고유한 AMP 코드를 만들 수 있습니다. 
 

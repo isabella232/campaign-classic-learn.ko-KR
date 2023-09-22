@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 97%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Campaign 워크플로우 히트맵은 현재 실행 중인 모든 워크플로우를 색상으로 구분하여 그래픽으로 표시합니다. 동시 실행 중인 워크플로우의 수에 대한 빠른 개요를 제공하므로 Adobe Campaign 플랫폼 관리자가 해당 인스턴스의 로드를 모니터링하고 그에 따라 워크플로우를 계획할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}

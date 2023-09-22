@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 32%
+source-wordcount: '39'
+ht-degree: 30%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 32%
 
 다음 비디오는 게재 템플릿 속성을 설정하는 방법을 보여 주며 각 속성에 대해 자세히 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}

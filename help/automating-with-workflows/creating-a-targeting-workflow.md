@@ -9,10 +9,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 53%
+source-wordcount: '84'
+ht-degree: 52%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 53%
 
 Adobe Campaign은 워크플로우를 사용하여 타기팅 캠페인을 수행하거나 캠페인을 빌드하거나 Adobe Campaign 기술 프로세스를 실행합니다. 이 비디오에서는 타겟팅 워크플로우에 대해 중점적으로 다룹니다. 타겟팅 워크플로우를 사용하면 여러 게재 타겟을 구축할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
 설명서 참조 [워크플로우 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ko)
 및 [타겟팅 활동 기본 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 추가 정보.

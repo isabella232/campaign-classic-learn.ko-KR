@@ -10,9 +10,9 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '63'
 ht-degree: 9%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 9%
 
 이 비디오에서는 임시 이메일 게재 템플릿을 배포하는 방법을 설명하고 이메일 게재와 게재 워크플로우의 차이점을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}

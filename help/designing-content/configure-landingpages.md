@@ -10,9 +10,9 @@ role: Developer, Admin
 level: Beginner
 last-substantial-update: 2023-03-10T00:00:00Z
 exl-id: 78703218-dc38-464a-bbab-f2ba5f715ab3
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 랜딩 페이지를 만들고 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
 
 자세한 내용은 의 자세한 설명서를 참조하십시오. [랜딩 페이지 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 56%
+source-wordcount: '117'
+ht-degree: 55%
 
 ---
 
@@ -30,6 +30,6 @@ ht-degree: 56%
 * 데이터에 대한 검색 및 보고
 * 목록에서 데이터를 내보내고 실시간 타기팅 필터를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
 Snowflake 액세스를 구성하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).

@@ -12,10 +12,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '139'
+ht-degree: 98%
 
 ---
 
@@ -25,4 +25,4 @@ Adobe Campaign Classic의 프로필 개념을 이해합니다. 프로필 데이�
 
 또한 이 비디오에서는 Adobe Campaign Classic의 개인 정보 보호 규정(GDPR) 준수 및 CCPA(California Consumer Privacy Act)에 대해서도 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}

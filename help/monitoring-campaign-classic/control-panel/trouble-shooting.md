@@ -6,10 +6,10 @@ jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 80%
+source-wordcount: '334'
+ht-degree: 79%
 
 ---
 
@@ -40,11 +40,11 @@ ht-degree: 80%
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
 *IMS 조직 ID 확인(00:26)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
 *[!UICONTROL Control panel]을(를) 사용하기 위해 제품 프로필 관리자에 관리자를 추가하는 방법(01:03)*
 

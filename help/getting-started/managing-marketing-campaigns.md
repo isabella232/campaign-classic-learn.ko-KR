@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 15%
+source-wordcount: '42'
+ht-degree: 14%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 15%
 
 의 주요 개념 이해 [!UICONTROL Adobe Campaign] 크로스채널 마케팅 캠페인을 효과적으로 계획, 실행 및 측정하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}
