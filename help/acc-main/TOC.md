@@ -6,7 +6,7 @@ user-guide-description: Adobe Campaign Classic을 사용하면 크로스 채널 
 breadcrumb-title: 튜토리얼
 auto-video-transcripts: true
 source-git-commit: 770c1b87b9be4f6fdf753b8b0d33e8feea5c9cb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
 ht-degree: 100%
 
