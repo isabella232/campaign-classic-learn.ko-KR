@@ -36,7 +36,7 @@ ht-degree: 98%
       + [이메일 게재 콘텐츠 디자인](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [이메일의 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [증명 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [통제 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
+      + [컨트롤 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
       + [게재를 A/B 테스트용으로 구성](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [다이내믹 콘텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [다이내믹 콘텐츠 블록을 사용하여 이메일 개인화](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
